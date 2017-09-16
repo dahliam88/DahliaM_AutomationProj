@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Amazon" />
+        <module name="Ebay" />
+        <module name="Facebook" />
+        <module name="Generic" />
+        <module name="Instagram" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Amazon" target="1.8" />
+      <module name="Ebay" target="1.8" />
+      <module name="Facebook" target="1.8" />
+      <module name="Generic" target="1.8" />
+      <module name="Instagram" target="1.8" />
+      <module name="PntAutomation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
