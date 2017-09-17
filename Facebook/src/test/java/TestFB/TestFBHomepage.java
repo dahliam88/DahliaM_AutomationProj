@@ -1,7 +1,7 @@
 package TestFB;
 
 import common.CommonAPI;
-import fbObjects.FacebookHomepage;
+import fBObjects.FacebookHomepage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 

@@ -1,11 +1,10 @@
 package TestFB;
 
 import common.CommonAPI;
-import fbObjects.FacebookBrowseCelebs;
+import fBObjects.FacebookBrowseCelebs;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
-import static common.CommonAPI.driver;
 import static java.lang.Thread.sleep;
 
 public class TestBrowseCelebs extends CommonAPI {

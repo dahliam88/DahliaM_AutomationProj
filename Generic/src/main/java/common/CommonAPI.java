@@ -1,6 +1,7 @@
 package common;
 
 import com.beust.jcommander.Parameter;
+import com.beust.jcommander.Parameters;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -13,7 +14,7 @@ public class CommonAPI {
 
     public static WebDriver driver = null;
 
-    @Parameters({"browserName", "url", "operatingSystem"})
+    @org.testng.annotations.Parameters({"browserName", "url", "operatingSystem"})
     @BeforeTest
 
     public void setUp(@Optional("firefox") String browserName, @Optional("https://www.amazon.com/") String url ,@Optional("win") String operatingSystem ) {

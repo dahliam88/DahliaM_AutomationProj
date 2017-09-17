@@ -1,4 +1,4 @@
-package fbObjects;
+package fBObjects;
 
 import common.CommonAPI;
 import org.openqa.selenium.By;
@@ -47,29 +47,22 @@ public class FacebookSignupPage extends CommonAPI {
     public WebElement getMonthWebElement(){
         return monthDropDown;
     }
-
     public WebElement getDayWebElement(){
         return dayDropDown;
     }
-
     public WebElement getYearWebElement(){
         return yearDropDown;
     }
 
-
     public void signUpFB(String firstName, String lastName, String email, String pass, String month, String day, String year, String gender) throws InterruptedException {
         firstNameBox.sendKeys(firstName);
         sleep(1000);
-
         lastNameBox.sendKeys(lastName);
         sleep(1000);
-
         emailBox.sendKeys(email);
         sleep(1000);
-
         emailConfirmBox.sendKeys(email);
         sleep(1000);
-
         passwordBox.sendKeys(pass);
         sleep(1000);
 
@@ -86,7 +79,6 @@ public class FacebookSignupPage extends CommonAPI {
         sleep(1000);
 
         createAcc.click();
-
         System.out.println("Test passed");
     }
 
@@ -104,4 +96,3 @@ public class FacebookSignupPage extends CommonAPI {
         selYear.selectByVisibleText(year);
     }
 }
-

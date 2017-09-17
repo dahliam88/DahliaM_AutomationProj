@@ -1,4 +1,4 @@
-package fbObjects;
+package fBObjects;
 
 import common.CommonAPI;
 import org.openqa.selenium.WebElement;
@@ -24,7 +24,6 @@ public class FacebookLogin extends CommonAPI {
     @FindBy(how = How.ID, using = "forgot-password-link")
     public static WebElement forgotPass;
 
-
     public void loginFB(String email, String password) throws InterruptedException {
         emailBox.sendKeys(email);
         sleep(1000);
@@ -32,13 +31,13 @@ public class FacebookLogin extends CommonAPI {
         sleep(1000);
         loginBtn.click();
         sleep(1000);
+
         System.out.println("Test passed");
     }
 
     public void createAcct() {
         createAcct.click();
     }
-
     public void forgotPass() {
         forgotPass.click();
     }

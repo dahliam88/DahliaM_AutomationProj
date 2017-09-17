@@ -1,4 +1,4 @@
-package fbObjects;
+package fBObjects;
 
 import common.CommonAPI;
 import org.openqa.selenium.WebElement;
@@ -17,8 +17,10 @@ public class FacebookBrowseCelebs extends CommonAPI {
 
     public void searchCelebs(String name) throws InterruptedException {
         publicFiguresBox.sendKeys(name);
-        sleep(1000);
-        searchBtn.click();
         sleep(3000);
+        searchBtn.click();
+        sleep(4000);
+
+        System.out.println("Test passed");
     }
 }

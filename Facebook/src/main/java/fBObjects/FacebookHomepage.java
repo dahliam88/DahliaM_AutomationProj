@@ -1,4 +1,4 @@
-package fbObjects;
+package fBObjects;
 
 import common.CommonAPI;
 import org.openqa.selenium.WebElement;
@@ -93,95 +93,65 @@ public class FacebookHomepage extends CommonAPI{
     @FindBy(how = How.ID, using = "u_0_c")
     public static WebElement homeBtn23;
 
-
     public void Home() throws InterruptedException{
         profile.click();
         sleep(2000);
-
         homeBtn.click();
         sleep(2000);
-
         findFriends.click();
         sleep(2000);
-
         homeBtn9.click();
         sleep(2000);
-
         messenger.click();
         sleep(2000);
-
         homeBtn12.click();
         sleep(2000);
-
         watchVideo.click();
         sleep(2000);
-
         homeBtn13.click();
         sleep(2000);
-
         marketplace.click();
         sleep(2000);
-
         homeBtn14.click();
         sleep(2000);
-
         groups.click();
         sleep(2000);
-
         homeBtn15.click();
         sleep(2000);
-
         pages.click();
         sleep(2000);
-
         homeBtn16.click();
         sleep(2000);
-
         events.click();
         sleep(2000);
-
         homeBtn17.click();
         sleep(2000);
-
         friendLists.click();
         sleep(2000);
-
         homeBtn18.click();
         sleep(2000);
-
         pokes.click();
         sleep(2000);
-
         homeBtn19.click();
         sleep(2000);
-
         fundraisers.click();
         sleep(2000);
-
         homeBtn20.click();
         sleep(2000);
-
         onThisDay.click();
         sleep(2000);
-
         homeBtn21.click();
         sleep(2000);
-
         games.click();
         sleep(2000);
-
         homeBtn22.click();
         sleep(2000);
-
         liveVideo.click();
         sleep(2000);
-
         homeBtn23.click();
         sleep(2000);
 
         System.out.println("Test passed");
-
     }
-
 }
 

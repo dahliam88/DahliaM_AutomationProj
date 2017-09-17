@@ -1,7 +1,7 @@
 package TestFB;
 
 import common.CommonAPI;
-import fbObjects.FacebookSignupPage;
+import fBObjects.FacebookSignupPage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 import static java.lang.Thread.sleep;
