@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Facebook]" parallel="tests">
+  <test name="Facebook Features(failed)" parallel="tests">
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="operatingSystem" value="win"/>
+    <parameter name="url" value="https://www.facebook.com"/>
+    <classes>
+      <class name="TestFB.TestBrowseCelebs">
+        <methods>
+          <include name="setUp"/>
+          <include name="testBrowseCelebs"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- TestFB.TestBrowseCelebs -->
+      <class name="TestFB.TestFBLogin">
+        <methods>
+          <include name="setUp"/>
+          <include name="testLogin"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- TestFB.TestFBLogin -->
+      <class name="TestFB.TestFBHomepage">
+        <methods>
+          <include name="setUp"/>
+          <include name="testHome"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- TestFB.TestFBHomepage -->
+      <class name="TestFB.TestFBSignup">
+        <methods>
+          <include name="setUp"/>
+          <include name="testSignup"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- TestFB.TestFBSignup -->
+    </classes>
+  </test> <!-- Facebook Features(failed) -->
+</suite> <!-- Failed suite [Facebook] -->
