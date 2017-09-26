@@ -6,7 +6,6 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
 public class TestIGAboutUs extends CommonAPI{
-
     @Test
     public void testDataPolicy() throws InterruptedException {
         driver.navigate().to("https://instagram-press.com/");

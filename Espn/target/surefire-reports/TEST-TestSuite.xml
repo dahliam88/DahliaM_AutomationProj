@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="81.616" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="idea.version" value="2017.2.2"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_141\jre\bin"/>
+    <property name="java.vm.version" value="25.141-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Dahlia\IdeaProjects\PntAutomation\Espn"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Dahlia\IdeaProjects\PntAutomation\Espn"/>
+    <property name="java.runtime.version" value="1.8.0_141-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Dahlia\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Git\cmd;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files\nodejs\;C:\Users\Dahlia\AppData\Local\Android\sdk\platform-tools;C:\Users\Dahlia\AppData\Local\Android\sdk\tools;C:\Users\Dahlia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\3.4\bin;C:\Users\Dahlia\AppData\Roaming\npm;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Dahlia"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="Dahlia"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_141\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.2.2 install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_141"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_141\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="testBankHome" classname="Test.TestEspnHome" time="55.834">
+    <failure message="&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.PXwHfOwUwfIJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2076, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: b0ee4ffb-a5d2-4a78-bd79-9584094d85b6" type="org.openqa.selenium.ElementNotInteractableException">org.openqa.selenium.ElementNotInteractableException: 
+
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-08EKDQE', ip: '192.168.161.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.PXwHfOwUwfIJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2076, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b0ee4ffb-a5d2-4a78-bd79-9584094d85b6
+	at Test.TestEspnHome.testBankHome(TestEspnHome.java:13)
+</failure>
+    <system-err><![CDATA[1506431809571	geckodriver	INFO	geckodriver 0.18.0
+1506431809579	geckodriver	INFO	Listening on 127.0.0.1:27272
+1506431810231	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506431810432	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506431810801	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9572] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9572] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506431812187	Marionette	INFO	Listening on port 53274
+1506431812228	Marionette	INFO	Listening on port 53274
+1506431812292	Marionette	DEBUG	loaded listener.js
+Sep 26, 2017 9:16:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1506431812394	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506431813075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506431813075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506431814764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431816812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431816824	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431816825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431816826	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431816826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431816828	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431816829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431816836	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431816836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431816841	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431816842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431816845	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431816988	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1506431816988	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1506431817265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.registerdisney.go.com/v2/"
+1506431817313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431817324	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431817373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431817390	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.registerdisney.go.com/v2/"
+1506431817475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.espn.com/login/responder/index.html?clientId=ESPN-ESPNCOM-PROD&scheme=http&postMessageOrigin=http%3A%2F%2Fwww.espn.com%2F%3Fredirected%3Dtrue&cookieDomain=www.espn.com&config=PROD&logLevel=INFO&topHost=www.espn.com&langPref=en-US&cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcore.css&responderPage=https%3A%2F%2Fwww.espn.com%2Flogin%2Fresponder%2Findex.html&buildId=15dcdfe48c3"
+1506431817492	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.espn.com/login/responder/index.html?clientId=ESPN-ESPNCOM-PROD&scheme=http&postMessageOrigin=http%3A%2F%2Fwww.espn.com%2F%3Fredirected%3Dtrue&cookieDomain=www.espn.com&config=PROD&logLevel=INFO&topHost=www.espn.com&langPref=en-US&cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcore.css&responderPage=https%3A%2F%2Fwww.espn.com%2Flogin%2Fresponder%2Findex.html&buildId=15dcdfe48c3"
+1506431817618	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431818347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431818394	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/?redirected=true"
+1506431818567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1506431818568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1506431818618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506431818620	Marionette	DEBUG	Received DOM event "pageshow" for "http://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506431818620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506431818622	Marionette	DEBUG	Received DOM event "pageshow" for "http://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506431818623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cdn.unid.go.com/inner/?v=3.3.30"
+1506431818625	Marionette	DEBUG	Received DOM event "pageshow" for "http://cdn.unid.go.com/inner/?v=3.3.30"
+1506431818653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60353062/20170915051336098/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=s54y0swki9&t=1"
+1506431818947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60362080/20170921102729637/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=zPPiK3x7JY&t=1"
+1506431819021	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431819047	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60362080/20170921102729637/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=zPPiK3x7JY&t=1"
+1506431819123	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cdn-gl.imrworldwide.com/novms/html/ls.html"
+1506431819126	Marionette	DEBUG	Received DOM event "pageshow" for "http://cdn-gl.imrworldwide.com/novms/html/ls.html"
+1506431819271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cdn.unid.go.com/inner/?v=3.3.30"
+1506431819273	Marionette	DEBUG	Received DOM event "pageshow" for "http://cdn.unid.go.com/inner/?v=3.3.30"
+1506431819329	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60353062/20170915051336098/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=s54y0swki9&t=1"
+1506431819337	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431819621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4vicgvp1lifox7c68dddvx7ol5spq1506431818.nuid.imrworldwide.com/"
+1506431819639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1506431819786	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/?redirected=true"
+1506431820171	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.espn.com/?redirected=true"
+1506431820383	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.espn.com/?redirected=true"
+1506431820405	Marionette	DEBUG	Received DOM event "unload" for "http://www.espn.com/?redirected=true"
+1506431820449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1506431820780	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1506431820780	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1506431820781	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1506431820786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1506431820787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1506431820787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1506431820787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1506431820789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1506431820791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1506431820795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1506431820795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1506431820795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1506431820796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1506431820796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1506431820796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1506431822073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431822841	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431822865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431822869	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431822874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431822874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431822915	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431822916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431822918	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431822918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431822919	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431822919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431822920	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431822923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1506431822944	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1506431823347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431823413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431823416	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431823420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.registerdisney.go.com/v2/"
+1506431823457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.espn.com/login/responder/index.html?clientId=ESPN-ESPNCOM-PROD&scheme=http&postMessageOrigin=http%3A%2F%2Fwww.espn.com%2F&cookieDomain=www.espn.com&config=PROD&logLevel=INFO&topHost=www.espn.com&langPref=en-US&cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcore.css&responderPage=https%3A%2F%2Fwww.espn.com%2Flogin%2Fresponder%2Findex.html&buildId=15dcdfe48c3"
+1506431823459	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.espn.com/login/responder/index.html?clientId=ESPN-ESPNCOM-PROD&scheme=http&postMessageOrigin=http%3A%2F%2Fwww.espn.com%2F&cookieDomain=www.espn.com&config=PROD&logLevel=INFO&topHost=www.espn.com&langPref=en-US&cssOverride=https%3A%2F%2Fsecure.espncdn.com%2Fcombiner%2Fc%3Fcss%3Ddisneyid%2Fcore.css&responderPage=https%3A%2F%2Fwww.espn.com%2Flogin%2Fresponder%2Findex.html&buildId=15dcdfe48c3"
+1506431823503	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.registerdisney.go.com/v2/"
+1506431823573	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431824084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cdn.unid.go.com/inner/?v=3.3.30"
+1506431824085	Marionette	DEBUG	Received DOM event "pageshow" for "http://cdn.unid.go.com/inner/?v=3.3.30"
+1506431824163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431824292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.espn.com/"
+1506431824355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506431824366	Marionette	DEBUG	Received DOM event "pageshow" for "http://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506431824367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506431824369	Marionette	DEBUG	Received DOM event "pageshow" for "http://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506431824375	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431824379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60353062/20170915051336098/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=XXdsscI74O&t=1"
+1506431824469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cdn.unid.go.com/inner/?v=3.3.30"
+1506431824474	Marionette	DEBUG	Received DOM event "pageshow" for "http://cdn.unid.go.com/inner/?v=3.3.30"
+1506431824557	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60353062/20170915051336098/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=XXdsscI74O&t=1"
+1506431824567	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431824629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60359950/20170921103001885/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=ou7hpaYi1k&t=1"
+1506431824642	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60359950/20170921103001885/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=ou7hpaYi1k&t=1"
+1506431824658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cdn-gl.imrworldwide.com/novms/html/ls.html"
+1506431824659	Marionette	DEBUG	Received DOM event "pageshow" for "http://cdn-gl.imrworldwide.com/novms/html/ls.html"
+1506431824904	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.espn.com/"
+1506431825275	Marionette	DEBUG	Received DOM event "pagehide" for "https://tm01uwnw5iwac3ytojrmsz2ka4bcs1506431824.nuid.imrworldwide.com/"
+1506431825309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967403"
+1506431825381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431826724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431828029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431829320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431830609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431831899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431833195	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431834481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431847627	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506431849387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/browser.js, line 6452: TypeError: cannot use the given object as a weak map key
+]]></system-err>
+  </testcase>
+  <testcase name="testBankHome" classname="Test.TestEspnReportABug" time="4.671"/>
+</testsuite>

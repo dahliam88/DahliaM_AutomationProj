@@ -18,17 +18,12 @@ public class InstagramAboutUs extends CommonAPI {
     @FindBy(how = How.XPATH, using = ".//*[@id='menu-item-21']/a")
     public static WebElement brandAssets;
 
-
     public void Press() throws InterruptedException {
         pressNews.click();
-        sleep(1000);
-
         sleep(3000);
         ourStory.click();
         sleep(1000);
-
         brandAssets.click();
         sleep(3000);
     }
-
 }

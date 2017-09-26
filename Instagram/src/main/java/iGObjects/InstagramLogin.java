@@ -24,7 +24,6 @@ public class InstagramLogin extends CommonAPI {
     @FindBy(how = How.XPATH, using = ".//*[@id='react-root']/section/main/div/article/div/div[2]/p/a")
     public static WebElement signUp;
 
-
     public void loginIG(String username, String password) throws InterruptedException {
         usernameBox.sendKeys(username);
         sleep(1000);
@@ -41,5 +40,4 @@ public class InstagramLogin extends CommonAPI {
     public void forgotPassword() {
         forgotPassword.click();
     }
-
 }

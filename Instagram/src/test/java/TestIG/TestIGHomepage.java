@@ -14,5 +14,4 @@ public class TestIGHomepage extends CommonAPI{
         InstagramHomepage iGHome = PageFactory.initElements(driver, InstagramHomepage.class);
         iGHome.Home();
     }
-
 }

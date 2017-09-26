@@ -12,7 +12,4 @@ public class TestIGLogin extends CommonAPI {
         InstagramLogin igLogin = PageFactory.initElements(driver, InstagramLogin.class);
         igLogin.loginIG("lolarabbit1010", "MARSUPIAL123");
     }
-
-
-
 }

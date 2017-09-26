@@ -30,16 +30,12 @@ public class InstagramSignup extends CommonAPI{
     public void signUpIG(String emailorphone, String fullname, String username, String password) throws InterruptedException {
         emailOrPhoneBox.sendKeys(emailorphone);
         sleep(2000);
-
         fullNameBox.sendKeys(fullname);
         sleep(2000);
-
         userNameBox.sendKeys(username);
         sleep(2000);
-
         passwordBox.sendKeys(password);
         sleep(2000);
-
         signupBtn.click();
         sleep(1000);
     }

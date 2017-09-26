@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="5.757" tests="7" errors="0" skipped="5" failures="2">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="48.133" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="2017.2.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -29,7 +29,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\plugins\maven\lib\maven3\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Git\cmd;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Users\Dahlia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\3.4\bin;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Git\cmd;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files\nodejs\;C:\Users\Dahlia\AppData\Local\Android\sdk\platform-tools;C:\Users\Dahlia\AppData\Local\Android\sdk\tools;C:\Users\Dahlia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\3.4\bin;C:\Users\Dahlia\AppData\Roaming\npm;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,57 +61,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="setUp" classname="TestIG.TestIGLogin" time="5.485">
-    <failure message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.CKlA3j8plTDN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12352, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: bc34483d-5910-4dfa-bc73-2f15b69a0117" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
-Failed to decode response from marionette
-Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
-System info: host: 'DESKTOP-08EKDQE', ip: '192.168.161.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.CKlA3j8plTDN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12352, browserName=firefox, javascriptEnabled=true, platformName=XP}]
-Session ID: bc34483d-5910-4dfa-bc73-2f15b69a0117
-</failure>
-    <system-err><![CDATA[1505655949475	geckodriver	INFO	geckodriver 0.18.0
-1505655949483	geckodriver	INFO	Listening on 127.0.0.1:34871
-1505655950176	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
-1505655950417	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
-1505655950871	Marionette	INFO	Enabled via --marionette
-Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
-[GPU 7400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1505655952459	Marionette	INFO	Listening on port 62074
-1505655952470	Marionette	INFO	Listening on port 62074
-1505655953329	Marionette	DEBUG	loaded listener.js
-Sep 17, 2017 9:45:53 AM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-[GPU 7400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[GPU 7400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
-JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
-]]></system-err>
-  </testcase>
-  <testcase name="testSignup" classname="TestIG.TestIGSignup" time="0.007">
-    <failure message="Tried to run command without establishing a connection&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.CKlA3j8plTDN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12352, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: bc34483d-5910-4dfa-bc73-2f15b69a0117" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: 
-Tried to run command without establishing a connection
-Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
-System info: host: 'DESKTOP-08EKDQE', ip: '192.168.161.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.CKlA3j8plTDN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12352, browserName=firefox, javascriptEnabled=true, platformName=XP}]
-Session ID: bc34483d-5910-4dfa-bc73-2f15b69a0117
-	at TestIG.TestIGSignup.testSignup(TestIGSignup.java:13)
-</failure>
-  </testcase>
-  <testcase name="testLogin" classname="TestIG.TestIGLogin" time="0">
-    <skipped message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.CKlA3j8plTDN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12352, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: bc34483d-5910-4dfa-bc73-2f15b69a0117"/>
-  </testcase>
-  <testcase name="testHome" classname="TestIG.TestIGHomepage" time="0">
-    <skipped message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.CKlA3j8plTDN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12352, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: bc34483d-5910-4dfa-bc73-2f15b69a0117"/>
-  </testcase>
-  <testcase name="testDataPolicy" classname="TestIG.TestIGAboutUs" time="0">
-    <skipped message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.CKlA3j8plTDN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12352, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: bc34483d-5910-4dfa-bc73-2f15b69a0117"/>
-  </testcase>
-  <testcase name="testDataPolicy" classname="TestIG.TestIGTerms" time="0">
-    <skipped message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.CKlA3j8plTDN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12352, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: bc34483d-5910-4dfa-bc73-2f15b69a0117"/>
-  </testcase>
-  <testcase name="cleanUp" classname="TestIG.TestIGLogin" time="0">
-    <skipped/>
-  </testcase>
+  <testcase name="testSignup" classname="TestIG.TestIGSignup" time="10.799"/>
+  <testcase name="testLogin" classname="TestIG.TestIGLogin" time="4.084"/>
+  <testcase name="testHome" classname="TestIG.TestIGHomepage" time="8.806"/>
+  <testcase name="testDataPolicy" classname="TestIG.TestIGAboutUs" time="8.892"/>
 </testsuite>

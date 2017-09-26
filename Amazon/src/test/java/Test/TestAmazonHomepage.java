@@ -15,7 +15,6 @@ import static java.lang.Thread.sleep;
 public class TestAmazonHomepage extends CommonAPI {
     @Test
     public void testHome() throws InterruptedException {
-        driver.navigate().to("https://www.amazon.com/");
         AmazonHomepage amazonHome = PageFactory.initElements(driver, AmazonHomepage.class);
         amazonHome.searchInput("handbags");
     }

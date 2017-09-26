@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="22.657" tests="4" errors="0" skipped="0" failures="4">
+  <properties>
+    <property name="idea.version" value="2017.2.2"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_141\jre\bin"/>
+    <property name="java.vm.version" value="25.141-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Dahlia\IdeaProjects\PntAutomation\Amazon"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Dahlia\IdeaProjects\PntAutomation\Amazon"/>
+    <property name="java.runtime.version" value="1.8.0_141-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Dahlia\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Git\cmd;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files\nodejs\;C:\Users\Dahlia\AppData\Local\Android\sdk\platform-tools;C:\Users\Dahlia\AppData\Local\Android\sdk\tools;C:\Users\Dahlia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\3.4\bin;C:\Users\Dahlia\AppData\Roaming\npm;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Dahlia"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="Dahlia"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_141\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.2.2 install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_141"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_141\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_141\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_141\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="testHome" classname="Test.TestAmazonHomepage" time="13.706">
+    <failure message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.yEZvI9MLZyLX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13624, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: 59c84a3e-a020-413c-b3bf-97c7f2f72f70&#10;*** Element info: {Using=xpath, value=.//*[@id=&apos;twotabsearchtextbox&apos;]}" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+Failed to decode response from marionette
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-08EKDQE', ip: '192.168.161.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.yEZvI9MLZyLX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13624, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 59c84a3e-a020-413c-b3bf-97c7f2f72f70
+*** Element info: {Using=xpath, value=.//*[@id='twotabsearchtextbox']}
+	at Test.TestAmazonHomepage.testHome(TestAmazonHomepage.java:19)
+</failure>
+    <system-out><![CDATA[Scroll through photo gallery 4 times
+]]></system-out>
+    <system-err><![CDATA[1506405062812	geckodriver	INFO	geckodriver 0.18.0
+1506405062819	geckodriver	INFO	Listening on 127.0.0.1:17486
+1506405063468	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506405063662	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506405064030	Marionette	INFO	Enabled via --marionette
+1506405065361	Marionette	INFO	Listening on port 59541
+1506405065373	Marionette	INFO	Listening on port 59541
+1506405065509	Marionette	DEBUG	loaded listener.js
+Sep 26, 2017 1:51:05 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1506405065618	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506405065846	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506405065846	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506405066630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/"
+1506405067647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1506405068939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1506405068939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1506405069099	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ad.doubleclick.net/ddm/adi/N3671.160337.AMA/B20061100.200834196;click=https://aax-us-east.amazon-adsystem.com/x/c/QrAroTy4F0A_pGvqh7wy0AsAAAFevL0koQEAAAH0AfNIaxo/;sz=300x250;ord=344,438,044,858,204,788;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1506405069204	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1506405069388	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1506405069538	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506405069542	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1506405069949	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N3671.160337.AMA/B20061100.200834196;click=https://aax-us-east.amazon-adsystem.com/x/c/QrAroTy4F0A_pGvqh7wy0AsAAAFevL0koQEAAAH0AfNIaxo/;sz=300x250;ord=344,438,044,858,204,788;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1506405070058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60362375/20170919105138226/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=4SqUKIMwWU&t=1"
+1506405070067	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/ads/richmedia/studio/pv2/60362375/20170919105138226/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=4SqUKIMwWU&t=1"
+1506405070277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn3.doubleverify.com/t2tv7.html"
+1506405070279	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn3.doubleverify.com/t2tv7.html"
+1506405070316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ad.doubleclick.net/ddm/adi/N3671.160337.AMA/B20061100.200834196;click=https://aax-us-east.amazon-adsystem.com/x/c/QrAroTy4F0A_pGvqh7wy0AsAAAFevL0koQEAAAH0AfNIaxo/;sz=300x250;ord=344,438,044,858,204,788;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1506405070373	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N3671.160337.AMA/B20061100.200834196;click=https://aax-us-east.amazon-adsystem.com/x/c/QrAroTy4F0A_pGvqh7wy0AsAAAFevL0koQEAAAH0AfNIaxo/;sz=300x250;ord=344,438,044,858,204,788;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1506405070375	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N3671.160337.AMA/B20061100.200834196;click=https://aax-us-east.amazon-adsystem.com/x/c/QrAroTy4F0A_pGvqh7wy0AsAAAFevL0koQEAAAH0AfNIaxo/;sz=300x250;ord=344,438,044,858,204,788;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1506405070377	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1506405070430	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/"
+1506405071203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506405074445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506405077732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506405080991	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
+1506405083998	geckodriver::marionette	ERROR	Failed to kill browser process
+]]></system-err>
+  </testcase>
+  <testcase name="testLogin" classname="Test.TestAmazonLogin" time="0.003">
+    <failure message="Tried to run command without establishing a connection&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.yEZvI9MLZyLX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13624, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: 59c84a3e-a020-413c-b3bf-97c7f2f72f70" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-08EKDQE', ip: '192.168.161.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.yEZvI9MLZyLX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13624, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 59c84a3e-a020-413c-b3bf-97c7f2f72f70
+	at Test.TestAmazonLogin.testLogin(TestAmazonLogin.java:12)
+</failure>
+  </testcase>
+  <testcase name="testSignup" classname="Test.TestAmazonSignup" time="0.004">
+    <failure message="Tried to run command without establishing a connection&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.yEZvI9MLZyLX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13624, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: 59c84a3e-a020-413c-b3bf-97c7f2f72f70" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-08EKDQE', ip: '192.168.161.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.yEZvI9MLZyLX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13624, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 59c84a3e-a020-413c-b3bf-97c7f2f72f70
+	at Test.TestAmazonSignup.testSignup(TestAmazonSignup.java:13)
+</failure>
+  </testcase>
+  <testcase name="cleanUp" classname="Test.TestAmazonHomepage" time="0.356">
+    <failure message="Tried to run command without establishing a connection&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.yEZvI9MLZyLX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13624, browserName=firefox, javascriptEnabled=true, platformName=XP}]&#10;Session ID: 59c84a3e-a020-413c-b3bf-97c7f2f72f70" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-08EKDQE', ip: '192.168.161.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.yEZvI9MLZyLX, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13624, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 59c84a3e-a020-413c-b3bf-97c7f2f72f70
+</failure>
+  </testcase>
+</testsuite>

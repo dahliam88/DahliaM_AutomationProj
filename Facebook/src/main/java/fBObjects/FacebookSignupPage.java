@@ -35,10 +35,10 @@ public class FacebookSignupPage extends CommonAPI {
     @FindBy(how = How.ID, using = "year")
     public static WebElement yearDropDown;
 
-    @FindBy(how = How.ID, using = "u_0_7")
+    @FindBy(how = How.XPATH, using = ".//*[@id='u_0_3']")
     public static WebElement femaleBtn;
 
-    @FindBy(how = How.ID, using = "u_0_8")
+    @FindBy(how = How.XPATH, using = ".//*[@id='u_0_4']")
     public static WebElement maleBtn;
 
     @FindBy(how = How.NAME, using = "websubmit")

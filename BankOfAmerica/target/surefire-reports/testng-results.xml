@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BankOfAmerica" duration-ms="48787" started-at="2017-09-26T10:15:39Z" finished-at="2017-09-26T10:16:28Z">
+    <groups>
+    </groups>
+    <test name="Bank Of America features" duration-ms="48787" started-at="2017-09-26T10:15:39Z" finished-at="2017-09-26T10:16:28Z">
+      <class name="BOATesting.TestBOAHomeSearch">
+        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOAHomeSearch@2ef9b8bc]" name="testBankHome" duration-ms="6083" started-at="2017-09-26T06:15:59Z" finished-at="2017-09-26T06:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBankHome -->
+      </class> <!-- BOATesting.TestBOAHomeSearch -->
+      <class name="BOATesting.TestBOAHome">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BOATesting.TestBOAHome@5315b42e]" name="setUp" is-config="true" duration-ms="5952" started-at="2017-09-26T06:15:39Z" finished-at="2017-09-26T06:15:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.bankofamerica.com/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOAHome@5315b42e]" name="testBankHome" duration-ms="14255" started-at="2017-09-26T06:15:45Z" finished-at="2017-09-26T06:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBankHome -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BOATesting.TestBOAHome@5315b42e]" name="cleanUp" is-config="true" duration-ms="9781" started-at="2017-09-26T06:16:18Z" finished-at="2017-09-26T06:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- BOATesting.TestBOAHome -->
+      <class name="BOATesting.TestBOALocator">
+        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOALocator@5d624da6]" name="testBankHome" duration-ms="12657" started-at="2017-09-26T06:16:05Z" finished-at="2017-09-26T06:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBankHome -->
+      </class> <!-- BOATesting.TestBOALocator -->
+    </test> <!-- Bank Of America features -->
+  </suite> <!-- BankOfAmerica -->
+</testng-results>

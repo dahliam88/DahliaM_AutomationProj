@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Twitter]" parallel="tests">
+  <test name="Twitter Features(failed)" parallel="tests">
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="operatingSystem" value="win"/>
+    <parameter name="url" value="https://twitter.com/"/>
+    <classes>
+      <class name="TestTwitter.TestTwittLogin">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setUp"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- TestTwitter.TestTwittLogin -->
+    </classes>
+  </test> <!-- Twitter Features(failed) -->
+</suite> <!-- Failed suite [Twitter] -->

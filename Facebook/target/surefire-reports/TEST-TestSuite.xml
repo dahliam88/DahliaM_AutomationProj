@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="5.756" tests="6" errors="0" skipped="5" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="121.024" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="2017.2.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -29,7 +29,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.2.2\plugins\maven\lib\maven3\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Git\cmd;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Users\Dahlia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\3.4\bin;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_141\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Git\cmd;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;C:\Program Files\nodejs\;C:\Users\Dahlia\AppData\Local\Android\sdk\platform-tools;C:\Users\Dahlia\AppData\Local\Android\sdk\tools;C:\Users\Dahlia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\3.4\bin;C:\Users\Dahlia\AppData\Roaming\npm;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,54 +61,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="setUp" classname="TestFB.TestFBSignup" time="5.472">
-    <failure message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: driver.version: FirefoxDriver&#10;remote stacktrace: stack backtrace:&#10;   0:           0x4bb74f - &lt;no info&gt;&#10;   1:           0x4bbea9 - &lt;no info&gt;&#10;   2:           0x448c00 - &lt;no info&gt;&#10;   3:           0x4203e1 - &lt;no info&gt;&#10;   4:           0x407dc7 - &lt;no info&gt;&#10;   5:           0x6d95b9 - &lt;no info&gt;&#10;   6:           0x4173a7 - &lt;no info&gt;&#10;   7:           0x6d38b3 - &lt;no info&gt;&#10;   8:     0x7ffb4af62774 - BaseThreadInitThunk" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: 
-Failed to decode response from marionette
-Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
-System info: host: 'DESKTOP-08EKDQE', ip: '192.168.161.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_141'
-Driver info: driver.version: FirefoxDriver
-remote stacktrace: stack backtrace:
-   0:           0x4bb74f - <no info>
-   1:           0x4bbea9 - <no info>
-   2:           0x448c00 - <no info>
-   3:           0x4203e1 - <no info>
-   4:           0x407dc7 - <no info>
-   5:           0x6d95b9 - <no info>
-   6:           0x4173a7 - <no info>
-   7:           0x6d38b3 - <no info>
-   8:     0x7ffb4af62774 - BaseThreadInitThunk
-]]></failure>
-    <system-err><![CDATA[1505655972998	geckodriver	INFO	geckodriver 0.18.0
-1505655973005	geckodriver	INFO	Listening on 127.0.0.1:48937
-1505655973704	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
-1505655973965	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
-1505655974419	Marionette	INFO	Enabled via --marionette
-Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
-[GPU 12784] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1505655976030	Marionette	INFO	Listening on port 62100
-1505655976076	Marionette	INFO	Listening on port 62100
-1505655976899	Marionette	DEBUG	loaded listener.js
-[GPU 12784] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
-JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219: TypeError: log is undefined
-[Parent 11036] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-Unable to read VR Path Registry from C:\Users\Dahlia\AppData\Local\openvr\openvrpaths.vrpath
-[Child 11168] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-]]></system-err>
-  </testcase>
-  <testcase name="testSignup" classname="TestFB.TestFBSignup" time="0">
-    <skipped message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: driver.version: FirefoxDriver&#10;remote stacktrace: stack backtrace:&#10;   0:           0x4bb74f - &lt;no info&gt;&#10;   1:           0x4bbea9 - &lt;no info&gt;&#10;   2:           0x448c00 - &lt;no info&gt;&#10;   3:           0x4203e1 - &lt;no info&gt;&#10;   4:           0x407dc7 - &lt;no info&gt;&#10;   5:           0x6d95b9 - &lt;no info&gt;&#10;   6:           0x4173a7 - &lt;no info&gt;&#10;   7:           0x6d38b3 - &lt;no info&gt;&#10;   8:     0x7ffb4af62774 - BaseThreadInitThunk"/>
-  </testcase>
-  <testcase name="testLogin" classname="TestFB.TestFBLogin" time="0">
-    <skipped message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: driver.version: FirefoxDriver&#10;remote stacktrace: stack backtrace:&#10;   0:           0x4bb74f - &lt;no info&gt;&#10;   1:           0x4bbea9 - &lt;no info&gt;&#10;   2:           0x448c00 - &lt;no info&gt;&#10;   3:           0x4203e1 - &lt;no info&gt;&#10;   4:           0x407dc7 - &lt;no info&gt;&#10;   5:           0x6d95b9 - &lt;no info&gt;&#10;   6:           0x4173a7 - &lt;no info&gt;&#10;   7:           0x6d38b3 - &lt;no info&gt;&#10;   8:     0x7ffb4af62774 - BaseThreadInitThunk"/>
-  </testcase>
-  <testcase name="testBrowseCelebs" classname="TestFB.TestBrowseCelebs" time="0">
-    <skipped message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: driver.version: FirefoxDriver&#10;remote stacktrace: stack backtrace:&#10;   0:           0x4bb74f - &lt;no info&gt;&#10;   1:           0x4bbea9 - &lt;no info&gt;&#10;   2:           0x448c00 - &lt;no info&gt;&#10;   3:           0x4203e1 - &lt;no info&gt;&#10;   4:           0x407dc7 - &lt;no info&gt;&#10;   5:           0x6d95b9 - &lt;no info&gt;&#10;   6:           0x4173a7 - &lt;no info&gt;&#10;   7:           0x6d38b3 - &lt;no info&gt;&#10;   8:     0x7ffb4af62774 - BaseThreadInitThunk"/>
-  </testcase>
-  <testcase name="testHome" classname="TestFB.TestFBHomepage" time="0">
-    <skipped message="Failed to decode response from marionette&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;&#10;Driver info: driver.version: FirefoxDriver&#10;remote stacktrace: stack backtrace:&#10;   0:           0x4bb74f - &lt;no info&gt;&#10;   1:           0x4bbea9 - &lt;no info&gt;&#10;   2:           0x448c00 - &lt;no info&gt;&#10;   3:           0x4203e1 - &lt;no info&gt;&#10;   4:           0x407dc7 - &lt;no info&gt;&#10;   5:           0x6d95b9 - &lt;no info&gt;&#10;   6:           0x4173a7 - &lt;no info&gt;&#10;   7:           0x6d38b3 - &lt;no info&gt;&#10;   8:     0x7ffb4af62774 - BaseThreadInitThunk"/>
-  </testcase>
-  <testcase name="cleanUp" classname="TestFB.TestFBSignup" time="0">
-    <skipped/>
-  </testcase>
+  <testcase name="testSignup" classname="TestFB.TestFBSignup" time="9.917"/>
+  <testcase name="testLogin" classname="TestFB.TestFBLogin" time="7.773"/>
+  <testcase name="testBrowseCelebs" classname="TestFB.TestBrowseCelebs" time="9.214"/>
+  <testcase name="testHome" classname="TestFB.TestFBHomepage" time="78.651"/>
 </testsuite>

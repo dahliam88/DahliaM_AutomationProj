@@ -6,27 +6,6 @@
     <parameter name="operatingSystem" value="win"/>
     <parameter name="url" value="https://www.facebook.com"/>
     <classes>
-      <class name="TestFB.TestBrowseCelebs">
-        <methods>
-          <include name="setUp"/>
-          <include name="testBrowseCelebs"/>
-          <include name="cleanUp"/>
-        </methods>
-      </class> <!-- TestFB.TestBrowseCelebs -->
-      <class name="TestFB.TestFBLogin">
-        <methods>
-          <include name="setUp"/>
-          <include name="testLogin"/>
-          <include name="cleanUp"/>
-        </methods>
-      </class> <!-- TestFB.TestFBLogin -->
-      <class name="TestFB.TestFBHomepage">
-        <methods>
-          <include name="setUp"/>
-          <include name="testHome"/>
-          <include name="cleanUp"/>
-        </methods>
-      </class> <!-- TestFB.TestFBHomepage -->
       <class name="TestFB.TestFBSignup">
         <methods>
           <include name="setUp"/>

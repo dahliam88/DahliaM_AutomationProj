@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Ebay]" parallel="tests">
+  <test name="Ebay features(failed)" parallel="tests">
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="operatingSystem" value="windows"/>
+    <parameter name="url" value="https://www.ebay.com/"/>
+    <classes>
+      <class name="Test.TestEbayLogin">
+        <methods>
+          <include name="setUp"/>
+          <include name="cleanUp"/>
+          <include name="testLogin"/>
+        </methods>
+      </class> <!-- Test.TestEbayLogin -->
+      <class name="Test.TestEbaySignup">
+        <methods>
+          <include name="testSignup"/>
+        </methods>
+      </class> <!-- Test.TestEbaySignup -->
+      <class name="Test.TestEbayHome">
+        <methods>
+          <include name="setUp"/>
+          <include name="testHome"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- Test.TestEbayHome -->
+    </classes>
+  </test> <!-- Ebay features(failed) -->
+</suite> <!-- Failed suite [Ebay] -->

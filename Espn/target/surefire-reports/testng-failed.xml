@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Espn]" parallel="tests">
+  <test name="Espn features(failed)" parallel="tests">
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="operatingSystem" value="windows"/>
+    <parameter name="url" value="https://www.espn.com"/>
+    <classes>
+      <class name="Test.TestEspnHome">
+        <methods>
+          <include name="setUp"/>
+          <include name="cleanUp"/>
+          <include name="testBankHome"/>
+        </methods>
+      </class> <!-- Test.TestEspnHome -->
+    </classes>
+  </test> <!-- Espn features(failed) -->
+</suite> <!-- Failed suite [Espn] -->
