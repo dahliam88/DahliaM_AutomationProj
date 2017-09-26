@@ -12,6 +12,6 @@ public class TestAMSignUp extends CommonAPI{
     public void testAMSignup() throws InterruptedException {
         driver.navigate().to("http://www.amny.com/news");
         AMSignUp Register = PageFactory.initElements(driver, AMSignUp.class);
-        Register.signUpAM("");
+        Register.signUpAM("Trump");
     }
 }
