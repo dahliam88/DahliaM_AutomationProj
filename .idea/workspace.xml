@@ -2,57 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24c6b324-a218-4e3d-9530-3f21a733f638" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17_beta1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBBrowseCelebs.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/src/main/java/AMNewYorkObjects/AMSignUp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/src/test/java/Test/TestAMSignUp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/test-classes/Test/TestAMSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/test-classes/Test/TestAMSignUp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestBrowseCelebs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestBrowseCelebs.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMHome.class" afterPath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMHome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMSignUp.class" afterPath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMSignUp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/test-classes/Test/TestAMHome.class" afterPath="$PROJECT_DIR$/AMNewYork/target/test-classes/Test/TestAMHome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/Test/TestAmazonSignup.class" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/Test/TestAmazonSignup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/Espn-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Espn/target/Espn-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/Facebook-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Facebook/target/Facebook-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/classes/fbObjects/FacebookSignupPage.class" afterPath="$PROJECT_DIR$/Facebook/target/classes/fbObjects/FacebookSignupPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBHomepage.class" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBHomepage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBLogin.class" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBLogin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBSignup.class" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBSignup.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/Reporting/ApplicationLog.class" afterPath="$PROJECT_DIR$/Generic/target/classes/Reporting/ApplicationLog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/Reporting/ExtentManager.class" afterPath="$PROJECT_DIR$/Generic/target/classes/Reporting/ExtentManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/Reporting/ExtentTestManager.class" afterPath="$PROJECT_DIR$/Generic/target/classes/Reporting/ExtentTestManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/Reporting/TestLogger.class" afterPath="$PROJECT_DIR$/Generic/target/classes/Reporting/TestLogger.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" afterPath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/Instagram-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Instagram/target/Instagram-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/classes/iGObjects/InstagramAboutUs.class" afterPath="$PROJECT_DIR$/Instagram/target/classes/iGObjects/InstagramAboutUs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/test-classes/TestIG/TestIGAboutUs.class" afterPath="$PROJECT_DIR$/Instagram/target/test-classes/TestIG/TestIGAboutUs.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/AMNewYork.iml" afterPath="$PROJECT_DIR$/AMNewYork/AMNewYork.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/pom.xml" afterPath="$PROJECT_DIR$/AMNewYork/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/src/main/java/AMNewYorkObjects/AMHome.java" afterPath="$PROJECT_DIR$/AMNewYork/src/main/java/AMNewYorkObjects/AMHome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/src/test/java/Test/TestAMHome.java" afterPath="$PROJECT_DIR$/AMNewYork/src/test/java/Test/TestAMHome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/Espn/AM New York features.html" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/Espn/AM New York features.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/Espn/AM New York features.xml" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/Espn/AM New York features.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/junitreports/TEST-Test.TestAMHome.xml" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/junitreports/TEST-Test.TestAMHome.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/methods-alphabetical.html" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/methods.html" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng-results.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/testng-failed.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/testng-failed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" />
@@ -62,11 +26,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonSignup.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonSignup.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/toc.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/BankOfAmerica.iml" afterPath="$PROJECT_DIR$/BankOfAmerica/BankOfAmerica.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.html" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/TEST-TestSuite.xml" />
@@ -81,7 +41,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods.html" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/toc.html" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/toc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/Ebay.iml" afterPath="$PROJECT_DIR$/Ebay/Ebay.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.html" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/TEST-TestSuite.xml" />
@@ -96,10 +55,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods.html" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/toc.html" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/toc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/Espn.iml" afterPath="$PROJECT_DIR$/Espn/Espn.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/testng-failed.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/testng-failed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/TEST-TestSuite.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/TestSuite.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/emailable-report.html" />
@@ -110,46 +67,23 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods-not-run.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods-not-run.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/toc.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-failed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/Facebook.iml" afterPath="$PROJECT_DIR$/Facebook/Facebook.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookBrowseCelebs.java" afterPath="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookBrowseCelebs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookLogin.java" afterPath="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookLogin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignupPage.java" afterPath="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignupPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBHomepage.java" afterPath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBHomepage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBSignup.java" afterPath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBSignup.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/resources/TestFacebookRunner.xml" afterPath="$PROJECT_DIR$/Facebook/src/test/resources/TestFacebookRunner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/testng-failed.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/testng-failed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/TEST-TestSuite.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/TestSuite.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/emailable-report.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestBrowseCelebs.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestBrowseCelebs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBBrowseCelebs.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBBrowseCelebs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBHomepage.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBHomepage.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBLogin.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBLogin.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBSignup.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBSignup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/classes.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/classes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods-alphabetical.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods-not-run.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods-not-run.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/testng.xml.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/testng.xml.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/toc.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-failed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFacebookRunner.xml" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/TestFacebookRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="$PROJECT_DIR$/Generic/Generic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/pom.xml" afterPath="$PROJECT_DIR$/Generic/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/Reporting/ApplicationLog.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/Reporting/ApplicationLog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentManager.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentTestManager.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentTestManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/Reporting/TestLogger.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/Reporting/TestLogger.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/Instagram.iml" afterPath="$PROJECT_DIR$/Instagram/Instagram.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.html" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/TEST-TestSuite.xml" />
@@ -165,8 +99,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods.html" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/toc.html" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/toc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PntAutomation.iml" afterPath="$PROJECT_DIR$/PntAutomation.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/Twitter.iml" afterPath="$PROJECT_DIR$/Twitter/Twitter.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/TEST-TestSuite.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/TestSuite.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/Twitter Features.html" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/Twitter Features.html" />
@@ -181,7 +113,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods.html" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/toc.html" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/toc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -209,7 +140,26 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="108" column="33" lean-forward="false" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6069#6081#0" expanded="true" />
+                <element signature="e#6272#6284#0" expanded="true" />
+                <element signature="e#6327#6335#0" expanded="true" />
+                <element signature="e#6623#6635#0" expanded="true" />
+                <element signature="e#6841#6853#0" expanded="true" />
+                <element signature="e#7842#7850#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -268,7 +218,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/AMNewYork/pom.xml" />
         <option value="$PROJECT_DIR$/AMNewYork/src/main/java/AMNewYorkObjects/AMHome.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestBrowseCelebs.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBBase.java" />
         <option value="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookBase.java" />
@@ -280,6 +229,7 @@
         <option value="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBHomepage.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBLogin.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBSignup.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -300,6 +250,15 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PntAutomation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PntAutomation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -332,140 +291,14 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Espn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Espn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Espn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Espn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Espn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="EspnObjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Espn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Espn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Espn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fBObjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TestFB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
@@ -832,7 +665,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327294" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -855,6 +687,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327294" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -952,7 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -960,11 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#984#985#0" expanded="false" />
-            <element signature="e#1027#1028#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -972,9 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="819">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -982,11 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#791#792#0" expanded="false" />
-            <element signature="e#833#834#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1009,39 +828,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1131">
           <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AMNewYork/src/test/java/Test/TestAMSignUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AMNewYork/src/test/java/Test/TestAMSignUp.java" />
     <entry file="file://$PROJECT_DIR$/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AMNewYork/src/main/java/AMNewYorkObjects/AMSignUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AMNewYork/src/main/java/AMNewYorkObjects/AMSignUp.java" />
     <entry file="file://$PROJECT_DIR$/AMNewYork/src/test/java/Test/TestAMHome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1049,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-813">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1057,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1716">
           <caret line="44" column="10" lean-forward="false" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1065,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1521">
           <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,39 +886,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="802">
           <caret line="108" column="5" lean-forward="false" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestBrowseCelebs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestBrowseCelebs.java" />
     <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookBrowseCelebs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
           <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="109" column="24" lean-forward="true" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6080#6092#0" expanded="true" />
-            <element signature="e#6283#6295#0" expanded="true" />
-            <element signature="e#6338#6346#0" expanded="true" />
-            <element signature="e#6634#6646#0" expanded="true" />
-            <element signature="e#6852#6864#0" expanded="true" />
-            <element signature="e#7853#7861#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1137,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,12 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="889">
           <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-          <folding>
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1079#1080#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1158,7 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3159">
           <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1166,7 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1174,7 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1031">
           <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1182,7 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1190,7 +951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1198,7 +958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1206,7 +965,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,9 +972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1224,9 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1234,8 +986,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="108" column="33" lean-forward="false" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#6069#6081#0" expanded="true" />
+            <element signature="e#6272#6284#0" expanded="true" />
+            <element signature="e#6327#6335#0" expanded="true" />
+            <element signature="e#6623#6635#0" expanded="true" />
+            <element signature="e#6841#6853#0" expanded="true" />
+            <element signature="e#7842#7850#0" expanded="true" />
           </folding>
         </state>
       </provider>

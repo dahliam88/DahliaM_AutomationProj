@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="3" total="7" passed="4">
+<testng-results skipped="0" failed="0" ignored="6" total="10" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Facebook" duration-ms="105319" started-at="2017-09-27T20:10:45Z" finished-at="2017-09-27T20:12:30Z">
+  <suite name="Facebook" duration-ms="108584" started-at="2017-09-27T20:55:49Z" finished-at="2017-09-27T20:57:38Z">
     <groups>
     </groups>
-    <test name="Facebook Features" duration-ms="105319" started-at="2017-09-27T20:10:45Z" finished-at="2017-09-27T20:12:30Z">
-      <class name="TestFB.TestFBSignup">
-        <test-method status="PASS" signature="testSignup()[pri:0, instance:TestFB.TestFBSignup@36f6e879]" name="testSignup" duration-ms="9201" started-at="2017-09-27T16:10:58Z" finished-at="2017-09-27T16:11:08Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testSignup -->
-      </class> <!-- TestFB.TestFBSignup -->
+    <test name="Facebook Features" duration-ms="108584" started-at="2017-09-27T20:55:49Z" finished-at="2017-09-27T20:57:38Z">
       <class name="TestFB.TestFBLogin">
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestFB.TestFBLogin@5a61f5df]" name="testLogin" duration-ms="6967" started-at="2017-09-27T16:11:08Z" finished-at="2017-09-27T16:11:15Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestFB.TestFBLogin@2c9f9fb0]" name="testLogin" duration-ms="6980" started-at="2017-09-27T16:56:13Z" finished-at="2017-09-27T16:56:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
       </class> <!-- TestFB.TestFBLogin -->
+      <class name="TestFB.TestFBSignup">
+        <test-method status="PASS" signature="testSignup()[pri:0, instance:TestFB.TestFBSignup@735b478]" name="testSignup" duration-ms="9196" started-at="2017-09-27T16:56:04Z" finished-at="2017-09-27T16:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignup -->
+      </class> <!-- TestFB.TestFBSignup -->
       <class name="TestFB.TestFBBrowseCelebs">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestFB.TestFBBrowseCelebs@54a097cc]" name="setUp" is-config="true" duration-ms="4756" started-at="2017-09-27T16:10:45Z" finished-at="2017-09-27T16:10:50Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestFB.TestFBBrowseCelebs@52af6cff]" name="setUp" is-config="true" duration-ms="6360" started-at="2017-09-27T16:55:49Z" finished-at="2017-09-27T16:55:55Z">
           <params>
             <param index="0">
               <value>
@@ -60,13 +60,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testBrowseCelebs()[pri:0, instance:TestFB.TestFBBrowseCelebs@54a097cc]" name="testBrowseCelebs" duration-ms="8829" started-at="2017-09-27T16:10:50Z" finished-at="2017-09-27T16:10:58Z">
+        <test-method status="PASS" signature="testBrowseCelebs()[pri:0, instance:TestFB.TestFBBrowseCelebs@52af6cff]" name="testBrowseCelebs" duration-ms="8795" started-at="2017-09-27T16:55:55Z" finished-at="2017-09-27T16:56:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBrowseCelebs -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestFB.TestFBBrowseCelebs@52af6cff]" name="cleanUp" is-config="true" duration-ms="1752" started-at="2017-09-27T16:57:36Z" finished-at="2017-09-27T16:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
       </class> <!-- TestFB.TestFBBrowseCelebs -->
       <class name="TestFB.TestFBHomepage">
-        <test-method status="PASS" signature="testHome()[pri:0, instance:TestFB.TestFBHomepage@3551a94]" name="testHome" duration-ms="75518" started-at="2017-09-27T16:11:15Z" finished-at="2017-09-27T16:12:30Z">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:TestFB.TestFBHomepage@2096442d]" name="testHome" duration-ms="75446" started-at="2017-09-27T16:56:20Z" finished-at="2017-09-27T16:57:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHome -->

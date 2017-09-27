@@ -30,7 +30,7 @@ public static WebDriver driver=null;
 private String saucelabs_username="dahliam324";
 private String browserstack_username="dahliam324";
 private String saucelabs_accesskey="1e838bcb-9b3a-49e0-bfde-b328cf54a607";
-private String browserstack_accesskey="6JfaazsFXczp2NfhpGpt";
+private String browserstack_accesskey="WszJxBTsgpgmkw281YhX";
 
 @Parameters({"useCloudEnv", "cloudEnvName", "os", "os_version", "browserName", "browserVersion", "url"})
 @BeforeTest
@@ -104,11 +104,11 @@ public WebDriver getCloudDriver(String envName,String envUsername,String envAcce
         return driver;
         }
 
-//@AfterMethod
-//public void cleanUp(){
-        //System.out.println("It has been called");
-       // driver.quit();
-       // }
+@AfterTest
+public void cleanUp(){
+        System.out.println("It has been called");
+        driver.quit();
+         }
 public void clickByCss(String locator){
         driver.findElement(By.cssSelector(locator)).click();
         }

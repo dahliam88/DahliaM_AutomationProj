@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Espn" duration-ms="50902" started-at="2017-09-27T20:16:15Z" finished-at="2017-09-27T20:17:06Z">
+  <suite name="Espn" duration-ms="45899" started-at="2017-09-27T21:01:33Z" finished-at="2017-09-27T21:02:19Z">
     <groups>
     </groups>
-    <test name="Espn features" duration-ms="50902" started-at="2017-09-27T20:16:15Z" finished-at="2017-09-27T20:17:06Z">
+    <test name="Espn features" duration-ms="45899" started-at="2017-09-27T21:01:33Z" finished-at="2017-09-27T21:02:19Z">
       <class name="Test.TestEspnHome">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestEspnHome@5a61f5df]" name="setUp" is-config="true" duration-ms="14489" started-at="2017-09-27T16:16:15Z" finished-at="2017-09-27T16:16:30Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestEspnHome@36f6e879]" name="setUp" is-config="true" duration-ms="10064" started-at="2017-09-27T17:01:33Z" finished-at="2017-09-27T17:01:43Z">
           <params>
             <param index="0">
               <value>
@@ -48,13 +48,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testBankHome()[pri:0, instance:Test.TestEspnHome@5a61f5df]" name="testBankHome" duration-ms="29362" started-at="2017-09-27T16:16:30Z" finished-at="2017-09-27T16:16:59Z">
+        <test-method status="PASS" signature="testBankHome()[pri:0, instance:Test.TestEspnHome@36f6e879]" name="testBankHome" duration-ms="29456" started-at="2017-09-27T17:01:43Z" finished-at="2017-09-27T17:02:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBankHome -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Test.TestEspnHome@36f6e879]" name="cleanUp" is-config="true" duration-ms="1655" started-at="2017-09-27T17:02:17Z" finished-at="2017-09-27T17:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
       </class> <!-- Test.TestEspnHome -->
       <class name="Test.TestEspnReportABug">
-        <test-method status="PASS" signature="testBankHome()[pri:0, instance:Test.TestEspnReportABug@3551a94]" name="testBankHome" duration-ms="7026" started-at="2017-09-27T16:16:59Z" finished-at="2017-09-27T16:17:06Z">
+        <test-method status="PASS" signature="testBankHome()[pri:0, instance:Test.TestEspnReportABug@5a61f5df]" name="testBankHome" duration-ms="4687" started-at="2017-09-27T17:02:12Z" finished-at="2017-09-27T17:02:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBankHome -->

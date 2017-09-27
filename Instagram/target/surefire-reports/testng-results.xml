@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+<testng-results skipped="0" failed="0" ignored="4" total="8" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Facebook" duration-ms="38299" started-at="2017-09-27T20:13:19Z" finished-at="2017-09-27T20:13:58Z">
+  <suite name="Facebook" duration-ms="39805" started-at="2017-09-27T20:58:29Z" finished-at="2017-09-27T20:59:09Z">
     <groups>
     </groups>
-    <test name="Instagram Features" duration-ms="38299" started-at="2017-09-27T20:13:19Z" finished-at="2017-09-27T20:13:58Z">
+    <test name="Instagram Features" duration-ms="39805" started-at="2017-09-27T20:58:29Z" finished-at="2017-09-27T20:59:09Z">
       <class name="TestIG.TestIGHomepage">
-        <test-method status="PASS" signature="testHome()[pri:0, instance:TestIG.TestIGHomepage@735b478]" name="testHome" duration-ms="8579" started-at="2017-09-27T16:13:40Z" finished-at="2017-09-27T16:13:49Z">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:TestIG.TestIGHomepage@2c9f9fb0]" name="testHome" duration-ms="8348" started-at="2017-09-27T16:58:50Z" finished-at="2017-09-27T16:58:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHome -->
       </class> <!-- TestIG.TestIGHomepage -->
       <class name="TestIG.TestIGLogin">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestIG.TestIGLogin@531be3c5]" name="setUp" is-config="true" duration-ms="4991" started-at="2017-09-27T16:13:19Z" finished-at="2017-09-27T16:13:24Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestIG.TestIGLogin@52af6cff]" name="setUp" is-config="true" duration-ms="6315" started-at="2017-09-27T16:58:29Z" finished-at="2017-09-27T16:58:35Z">
           <params>
             <param index="0">
               <value>
@@ -54,19 +54,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestIG.TestIGLogin@531be3c5]" name="testLogin" duration-ms="4050" started-at="2017-09-27T16:13:36Z" finished-at="2017-09-27T16:13:40Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestIG.TestIGLogin@52af6cff]" name="testLogin" duration-ms="4000" started-at="2017-09-27T16:58:46Z" finished-at="2017-09-27T16:58:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestIG.TestIGLogin@52af6cff]" name="cleanUp" is-config="true" duration-ms="1641" started-at="2017-09-27T16:59:07Z" finished-at="2017-09-27T16:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
       </class> <!-- TestIG.TestIGLogin -->
       <class name="TestIG.TestIGSignup">
-        <test-method status="PASS" signature="testSignup()[pri:0, instance:TestIG.TestIGSignup@52af6cff]" name="testSignup" duration-ms="12145" started-at="2017-09-27T16:13:24Z" finished-at="2017-09-27T16:13:36Z">
+        <test-method status="PASS" signature="testSignup()[pri:0, instance:TestIG.TestIGSignup@735b478]" name="testSignup" duration-ms="10620" started-at="2017-09-27T16:58:35Z" finished-at="2017-09-27T16:58:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSignup -->
       </class> <!-- TestIG.TestIGSignup -->
       <class name="TestIG.TestIGAboutUs">
-        <test-method status="PASS" signature="testDataPolicy()[pri:0, instance:TestIG.TestIGAboutUs@2c9f9fb0]" name="testDataPolicy" duration-ms="8477" started-at="2017-09-27T16:13:49Z" finished-at="2017-09-27T16:13:58Z">
+        <test-method status="PASS" signature="testDataPolicy()[pri:0, instance:TestIG.TestIGAboutUs@2096442d]" name="testDataPolicy" duration-ms="8811" started-at="2017-09-27T16:58:58Z" finished-at="2017-09-27T16:59:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDataPolicy -->

@@ -135,14 +135,14 @@
           <div class="suite-Facebook-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">TestFB.TestFBLogin</span>
+              <span class="class-name">TestFB.TestFBBrowseCelebs</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testLogin">
-                  </a> <!-- testLogin -->
-                  <span class="method-name">testLogin</span>
+                  <a name="testBrowseCelebs">
+                  </a> <!-- testBrowseCelebs -->
+                  <span class="method-name">testBrowseCelebs</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -165,14 +165,14 @@
           <div class="suite-Facebook-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">TestFB.TestFBBrowseCelebs</span>
+              <span class="class-name">TestFB.TestFBLogin</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testBrowseCelebs">
-                  </a> <!-- testBrowseCelebs -->
-                  <span class="method-name">testBrowseCelebs</span>
+                  <a name="testLogin">
+                  </a> <!-- testLogin -->
+                  <span class="method-name">testLogin</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -254,19 +254,19 @@ data.addRows(4);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testHome')
 data.setCell(0, 2, 'TestFB.TestFBHomepage')
-data.setCell(0, 3, 75518);
+data.setCell(0, 3, 75446);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'testSignup')
 data.setCell(1, 2, 'TestFB.TestFBSignup')
-data.setCell(1, 3, 9201);
+data.setCell(1, 3, 9196);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'testBrowseCelebs')
 data.setCell(2, 2, 'TestFB.TestFBBrowseCelebs')
-data.setCell(2, 3, 8829);
+data.setCell(2, 3, 8795);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'testLogin')
 data.setCell(3, 2, 'TestFB.TestFBLogin')
-data.setCell(3, 3, 6967);
+data.setCell(3, 3, 6980);
 window.suiteTableData['Facebook']= { tableData: data, tableDiv: 'times-div-Facebook'}
 return data;
 }
@@ -286,20 +286,24 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Facebook" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">3 ignored methods</span>
+            <span class="header-content">6 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">TestFB.TestFBSignup</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">setUp</span>
+                <br/>
+                <span class="ignored-method-name">cleanUp</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
             <div class="ignored-class-div">
               <span class="ignored-class-name">TestFB.TestFBLogin</span>
               <div class="ignored-methods-div">
                 <span class="ignored-method-name">setUp</span>
                 <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">TestFB.TestFBSignup</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setUp</span>
+                <span class="ignored-method-name">cleanUp</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -307,6 +311,8 @@ return data;
               <span class="ignored-class-name">TestFB.TestFBHomepage</span>
               <div class="ignored-methods-div">
                 <span class="ignored-method-name">setUp</span>
+                <br/>
+                <span class="ignored-method-name">cleanUp</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -325,29 +331,36 @@ return data;
               </div> <!-- configuration-test before -->
               <div class="test-method">
                 <span class="method-name">testBrowseCelebs</span>
-                <span class="method-start">4804 ms</span>
+                <span class="method-start">6415 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TestFB.TestFBSignup</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">testSignup</span>
-                <span class="method-start">13633 ms</span>
+                <span class="method-start">15210 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TestFB.TestFBLogin</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">testLogin</span>
-                <span class="method-start">22834 ms</span>
+                <span class="method-start">24406 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TestFB.TestFBHomepage</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">testHome</span>
-                <span class="method-start">29801 ms</span>
+                <span class="method-start">31386 ms</span>
               </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">TestFB.TestFBBrowseCelebs</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">cleanUp</span>
+                <span class="method-start">106832 ms</span>
+              </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->
