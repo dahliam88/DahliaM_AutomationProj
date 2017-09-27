@@ -13,5 +13,4 @@ public class TestFBHomepage extends CommonAPI {
         FacebookHomepage fBHome = PageFactory.initElements(driver, FacebookHomepage.class);
         fBHome.Home();
     }
-
 }

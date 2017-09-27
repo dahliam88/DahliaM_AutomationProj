@@ -13,6 +13,20 @@
           <include name="cleanUp"/>
         </methods>
       </class> <!-- TestFB.TestFBSignup -->
+      <class name="TestFB.TestFBLogin">
+        <methods>
+          <include name="setUp"/>
+          <include name="testLogin"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- TestFB.TestFBLogin -->
+      <class name="TestFB.TestFBHomepage">
+        <methods>
+          <include name="setUp"/>
+          <include name="testHome"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- TestFB.TestFBHomepage -->
     </classes>
   </test> <!-- Facebook Features(failed) -->
 </suite> <!-- Failed suite [Facebook] -->

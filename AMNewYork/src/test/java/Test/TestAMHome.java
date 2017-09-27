@@ -8,8 +8,10 @@ import org.testng.annotations.Test;
 public class TestAMHome extends CommonAPI{
     @Test
     public void testAMHome() throws InterruptedException {
-        driver.navigate().to("http://www.amny.com/news");
         AMHome amNYHome = PageFactory.initElements(driver, AMHome.class);
+        //test #1
         amNYHome.Home("Trump");
+        //test#2
+        amNYHome.Newsletters("dahliam@live.com");
     }
 }

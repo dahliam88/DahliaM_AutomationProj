@@ -104,11 +104,11 @@ public WebDriver getCloudDriver(String envName,String envUsername,String envAcce
         return driver;
         }
 
-@AfterMethod
-public void cleanUp(){
-        System.out.println("It has been called");
-        driver.quit();
-        }
+//@AfterMethod
+//public void cleanUp(){
+        //System.out.println("It has been called");
+       // driver.quit();
+       // }
 public void clickByCss(String locator){
         driver.findElement(By.cssSelector(locator)).click();
         }

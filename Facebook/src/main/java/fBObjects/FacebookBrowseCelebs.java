@@ -7,8 +7,7 @@ import org.openqa.selenium.support.How;
 
 import static java.lang.Thread.sleep;
 
-public class FacebookBrowseCelebs extends CommonAPI {
-
+public class FacebookBrowseCelebs extends CommonAPI{
     @FindBy(how = How.XPATH, using = ".//*[@id='q_dashboard']")
     public static WebElement publicFiguresBox;
 

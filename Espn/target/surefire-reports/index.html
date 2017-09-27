@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Espn">
-              <span class="suite-name border-failed">Espn</span>
+              <span class="suite-name border-passed">Espn</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,21 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods, 1 failed,   1 passed</span>
-                  </li>
-                  <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Espn" class="hide-methods failed suite-Espn"> (hide)</a> <!-- hide-methods failed suite-Espn -->
-                      <a href="#" panel-name="suite-Espn" class="show-methods failed suite-Espn"> (show)</a> <!-- show-methods failed suite-Espn -->
-                    </span>
-                    <div class="method-list-content failed suite-Espn">
-                      <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Espn" title="Test.TestEspnHome" hash-for-method="testBankHome">testBankHome</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-Espn -->
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -114,6 +100,11 @@
                       <a href="#" panel-name="suite-Espn" class="show-methods passed suite-Espn"> (show)</a> <!-- show-methods passed suite-Espn -->
                     </span>
                     <div class="method-list-content passed suite-Espn">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Espn" title="Test.TestEspnHome" hash-for-method="testBankHome">testBankHome</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Espn" title="Test.TestEspnReportABug" hash-for-method="testBankHome">testBankHome</a> <!-- method navigator-link -->
@@ -131,9 +122,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Espn" class="panel Espn">
-          <div class="suite-Espn-class-failed">
+          <div class="suite-Espn-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
+              <img src="passed.png"/>
               <span class="class-name">Test.TestEspnHome</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -142,34 +133,10 @@
                   <a name="testBankHome">
                   </a> <!-- testBankHome -->
                   <span class="method-name">testBankHome</span>
-                  <div class="stack-trace">org.openqa.selenium.ElementNotInteractableException: 
-Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;
-System info: host: &apos;DESKTOP-08EKDQE&apos;, ip: &apos;192.168.161.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_141&apos;
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\Dahlia\AppData\Local\Temp\rust_mozprofile.PXwHfOwUwfIJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2076, browserName=firefox, javascriptEnabled=true, platformName=XP}]
-Session ID: b0ee4ffb-a5d2-4a78-bd79-9584094d85b6
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:275)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy9.click(Unknown Source)
-	at EspnObjects.EspnHome.Home(EspnHome.java:74)
-	at Test.TestEspnHome.testBankHome(TestEspnHome.java:13)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-... Removed 24 stack frames
-</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Espn-class-failed -->
+          </div> <!-- suite-Espn-class-passed -->
           <div class="suite-Espn-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -245,16 +212,16 @@ data.addRows(2);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testBankHome')
 data.setCell(0, 2, 'Test.TestEspnHome')
-data.setCell(0, 3, 55823);
+data.setCell(0, 3, 29362);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'testBankHome')
 data.setCell(1, 2, 'Test.TestEspnReportABug')
-data.setCell(1, 3, 4674);
+data.setCell(1, 3, 7026);
 window.suiteTableData['Espn']= { tableData: data, tableDiv: 'times-div-Espn'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 36 seconds</span>
               <div id="times-div-Espn">
               </div> <!-- times-div-Espn -->
             </div> <!-- times-div -->
@@ -269,15 +236,13 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Espn" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">2 ignored methods</span>
+            <span class="header-content">1 ignored method</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="ignored-class-div">
               <span class="ignored-class-name">Test.TestEspnReportABug</span>
               <div class="ignored-methods-div">
                 <span class="ignored-method-name">setUp</span>
-                <br/>
-                <span class="ignored-method-name">cleanUp</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -291,29 +256,20 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">Test.TestEspnHome</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
-                <span class="method-name">setUp(firefox, https://www.espn.com, windows)</span>
+                <span class="method-name">setUp(false, false, Windows, 10, firefox, 34, https://www.espn.com)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">testBankHome</span>
-                <span class="method-start">10796 ms</span>
+                <span class="method-start">14511 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">Test.TestEspnReportABug</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">testBankHome</span>
-                <span class="method-start">66629 ms</span>
+                <span class="method-start">43873 ms</span>
               </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">Test.TestEspnHome</div> <!-- chronological-class-name -->
-              <div class="configuration-test after">
-                <span class="method-name">cleanUp</span>
-                <span class="method-start">71304 ms</span>
-              </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

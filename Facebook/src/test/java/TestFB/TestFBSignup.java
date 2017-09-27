@@ -13,5 +13,4 @@ public class TestFBSignup extends CommonAPI {
         FacebookSignupPage fbSignUp = PageFactory.initElements(driver, FacebookSignupPage.class);
         fbSignUp.signUpFB("Daenerys", "Targaryen", "motherofdragons@gmail.com", "drogon", "Jul", "25", "1988", "female");
     }
-
 }

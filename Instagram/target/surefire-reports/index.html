@@ -135,21 +135,6 @@
           <div class="suite-Facebook-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">TestIG.TestIGAboutUs</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="testDataPolicy">
-                  </a> <!-- testDataPolicy -->
-                  <span class="method-name">testDataPolicy</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Facebook-class-passed -->
-          <div class="suite-Facebook-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
               <span class="class-name">TestIG.TestIGSignup</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -158,6 +143,21 @@
                   <a name="testSignup">
                   </a> <!-- testSignup -->
                   <span class="method-name">testSignup</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Facebook-class-passed -->
+          <div class="suite-Facebook-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TestIG.TestIGLogin</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testLogin">
+                  </a> <!-- testLogin -->
+                  <span class="method-name">testLogin</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -180,14 +180,14 @@
           <div class="suite-Facebook-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">TestIG.TestIGLogin</span>
+              <span class="class-name">TestIG.TestIGAboutUs</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testLogin">
-                  </a> <!-- testLogin -->
-                  <span class="method-name">testLogin</span>
+                  <a name="testDataPolicy">
+                  </a> <!-- testDataPolicy -->
+                  <span class="method-name">testDataPolicy</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -254,24 +254,24 @@ data.addRows(4);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testSignup')
 data.setCell(0, 2, 'TestIG.TestIGSignup')
-data.setCell(0, 3, 10807);
+data.setCell(0, 3, 12145);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'testDataPolicy')
-data.setCell(1, 2, 'TestIG.TestIGAboutUs')
-data.setCell(1, 3, 8892);
+data.setCell(1, 1, 'testHome')
+data.setCell(1, 2, 'TestIG.TestIGHomepage')
+data.setCell(1, 3, 8579);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'testHome')
-data.setCell(2, 2, 'TestIG.TestIGHomepage')
-data.setCell(2, 3, 8806);
+data.setCell(2, 1, 'testDataPolicy')
+data.setCell(2, 2, 'TestIG.TestIGAboutUs')
+data.setCell(2, 3, 8477);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'testLogin')
 data.setCell(3, 2, 'TestIG.TestIGLogin')
-data.setCell(3, 3, 4087);
+data.setCell(3, 3, 4050);
 window.suiteTableData['Facebook']= { tableData: data, tableDiv: 'times-div-Facebook'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 32 seconds</span>
+              <span class="suite-total-time">Total running time: 33 seconds</span>
               <div id="times-div-Facebook">
               </div> <!-- times-div-Facebook -->
             </div> <!-- times-div -->
@@ -286,24 +286,20 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Facebook" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">4 ignored methods</span>
+            <span class="header-content">2 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">TestIG.TestIGAboutUs</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setUp</span>
-                <br/>
-                <span class="ignored-method-name">cleanUp</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
             <div class="ignored-class-div">
               <span class="ignored-class-name">TestIG.TestIGHomepage</span>
               <div class="ignored-methods-div">
                 <span class="ignored-method-name">setUp</span>
                 <br/>
-                <span class="ignored-method-name">cleanUp</span>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">TestIG.TestIGAboutUs</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">setUp</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -317,7 +313,7 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">TestIG.TestIGLogin</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
-                <span class="method-name">setUp(firefox, https://www.instagram.com, win)</span>
+                <span class="method-name">setUp(false, false, Windows, 10, firefox, 34, https://www.instagram.com)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
             </div> <!-- chronological-class -->
@@ -325,36 +321,29 @@ return data;
               <div class="chronological-class-name">TestIG.TestIGSignup</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">testSignup</span>
-                <span class="method-start">5278 ms</span>
+                <span class="method-start">5048 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TestIG.TestIGLogin</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">testLogin</span>
-                <span class="method-start">16086 ms</span>
+                <span class="method-start">17193 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TestIG.TestIGHomepage</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">testHome</span>
-                <span class="method-start">20174 ms</span>
+                <span class="method-start">21243 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">TestIG.TestIGAboutUs</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">testDataPolicy</span>
-                <span class="method-start">28980 ms</span>
+                <span class="method-start">29822 ms</span>
               </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">TestIG.TestIGLogin</div> <!-- chronological-class-name -->
-              <div class="configuration-test after">
-                <span class="method-name">cleanUp</span>
-                <span class="method-start">37873 ms</span>
-              </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

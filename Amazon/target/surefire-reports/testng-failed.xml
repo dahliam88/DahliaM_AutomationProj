@@ -6,23 +6,16 @@
     <parameter name="operatingSystem" value="windows"/>
     <parameter name="url" value="https://www.amazon.com/"/>
     <classes>
-      <class name="Test.TestAmazonHomepage">
-        <methods>
-          <include name="setUp"/>
-          <include name="testHome"/>
-          <include name="cleanUp"/>
-        </methods>
-      </class> <!-- Test.TestAmazonHomepage -->
-      <class name="Test.TestAmazonSignup">
-        <methods>
-          <include name="testSignup"/>
-        </methods>
-      </class> <!-- Test.TestAmazonSignup -->
       <class name="Test.TestAmazonLogin">
         <methods>
           <include name="testLogin"/>
         </methods>
       </class> <!-- Test.TestAmazonLogin -->
+      <class name="Test.TestAmazonSignup">
+        <methods>
+          <include name="testSignup"/>
+        </methods>
+      </class> <!-- Test.TestAmazonSignup -->
     </classes>
   </test> <!-- Amazon features(failed) -->
 </suite> <!-- Failed suite [Amazon] -->

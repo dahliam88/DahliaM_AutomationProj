@@ -1,53 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Ebay" duration-ms="50480" started-at="2017-09-26T05:47:15Z" finished-at="2017-09-26T05:48:05Z">
+  <suite name="Ebay" duration-ms="42642" started-at="2017-09-27T20:13:59Z" finished-at="2017-09-27T20:14:41Z">
     <groups>
     </groups>
-    <test name="Ebay features" duration-ms="50480" started-at="2017-09-26T05:47:15Z" finished-at="2017-09-26T05:48:05Z">
+    <test name="Ebay features" duration-ms="42642" started-at="2017-09-27T20:13:59Z" finished-at="2017-09-27T20:14:41Z">
       <class name="Test.TestEbayLogin">
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:Test.TestEbayLogin@2c6a3f77]" name="testLogin" duration-ms="7847" started-at="2017-09-26T01:47:36Z" finished-at="2017-09-26T01:47:44Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:Test.TestEbayLogin@54a097cc]" name="testLogin" duration-ms="8375" started-at="2017-09-27T16:14:21Z" finished-at="2017-09-27T16:14:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
       </class> <!-- Test.TestEbayLogin -->
       <class name="Test.TestEbaySignup">
-        <test-method status="PASS" signature="testSignup()[pri:0, instance:Test.TestEbaySignup@246ae04d]" name="testSignup" duration-ms="11802" started-at="2017-09-26T01:47:44Z" finished-at="2017-09-26T01:47:55Z">
+        <test-method status="PASS" signature="testSignup()[pri:0, instance:Test.TestEbaySignup@36f6e879]" name="testSignup" duration-ms="11831" started-at="2017-09-27T16:14:30Z" finished-at="2017-09-27T16:14:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSignup -->
       </class> <!-- Test.TestEbaySignup -->
       <class name="Test.TestEbayHome">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestEbayHome@1324409e]" name="setUp" is-config="true" duration-ms="5971" started-at="2017-09-26T01:47:15Z" finished-at="2017-09-26T01:47:21Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestEbayHome@7225790e]" name="setUp" is-config="true" duration-ms="7067" started-at="2017-09-27T16:13:59Z" finished-at="2017-09-27T16:14:06Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[false]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[https://www.ebay.com/]]>
+                <![CDATA[false]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[windows]]>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.ebay.com/]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testHome()[pri:0, instance:Test.TestEbayHome@1324409e]" name="testHome" duration-ms="14927" started-at="2017-09-26T01:47:21Z" finished-at="2017-09-26T01:47:36Z">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:Test.TestEbayHome@7225790e]" name="testHome" duration-ms="15323" started-at="2017-09-27T16:14:06Z" finished-at="2017-09-27T16:14:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHome -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Test.TestEbayHome@1324409e]" name="cleanUp" is-config="true" duration-ms="9900" started-at="2017-09-26T01:47:55Z" finished-at="2017-09-26T01:48:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- cleanUp -->
       </class> <!-- Test.TestEbayHome -->
     </test> <!-- Ebay features -->
   </suite> <!-- Ebay -->

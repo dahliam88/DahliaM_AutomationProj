@@ -41,7 +41,7 @@ public class FacebookSignupPage extends CommonAPI {
     @FindBy(how = How.XPATH, using = ".//*[@id='u_0_4']")
     public static WebElement maleBtn;
 
-    @FindBy(how = How.NAME, using = "websubmit")
+    @FindBy(how = How.XPATH, using = ".//*[@id='u_0_o']")
     public static WebElement createAcc;
 
     public WebElement getMonthWebElement(){
@@ -73,13 +73,10 @@ public class FacebookSignupPage extends CommonAPI {
             maleBtn.click();
         }else if (gender.equalsIgnoreCase("female")){
                 femaleBtn.click();
-        }else{
-            System.err.println("ERROR: Please select gender");
         }
         sleep(1000);
 
         createAcc.click();
-        System.out.println("Test passed");
     }
 
     private void inputBirthday(String monthElements, String dayElements, String yearElements, String month, String day, String year){
