@@ -2,24 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="6" total="10" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Facebook" duration-ms="108584" started-at="2017-09-27T20:55:49Z" finished-at="2017-09-27T20:57:38Z">
+  <suite name="Facebook" duration-ms="105934" started-at="2017-09-29T01:18:21Z" finished-at="2017-09-29T01:20:07Z">
     <groups>
     </groups>
-    <test name="Facebook Features" duration-ms="108584" started-at="2017-09-27T20:55:49Z" finished-at="2017-09-27T20:57:38Z">
+    <test name="Facebook Features" duration-ms="105934" started-at="2017-09-29T01:18:21Z" finished-at="2017-09-29T01:20:07Z">
       <class name="TestFB.TestFBLogin">
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestFB.TestFBLogin@2c9f9fb0]" name="testLogin" duration-ms="6980" started-at="2017-09-27T16:56:13Z" finished-at="2017-09-27T16:56:20Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestFB.TestFBLogin@735b478]" name="testLogin" duration-ms="6958" started-at="2017-09-28T21:18:36Z" finished-at="2017-09-28T21:18:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
       </class> <!-- TestFB.TestFBLogin -->
-      <class name="TestFB.TestFBSignup">
-        <test-method status="PASS" signature="testSignup()[pri:0, instance:TestFB.TestFBSignup@735b478]" name="testSignup" duration-ms="9196" started-at="2017-09-27T16:56:04Z" finished-at="2017-09-27T16:56:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testSignup -->
-      </class> <!-- TestFB.TestFBSignup -->
-      <class name="TestFB.TestFBBrowseCelebs">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestFB.TestFBBrowseCelebs@52af6cff]" name="setUp" is-config="true" duration-ms="6360" started-at="2017-09-27T16:55:49Z" finished-at="2017-09-27T16:55:55Z">
+      <class name="TestFB.TestFBSignUp">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestFB.TestFBSignUp@52af6cff]" name="setUp" is-config="true" duration-ms="4959" started-at="2017-09-28T21:18:21Z" finished-at="2017-09-28T21:18:26Z">
           <params>
             <param index="0">
               <value>
@@ -60,17 +54,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testBrowseCelebs()[pri:0, instance:TestFB.TestFBBrowseCelebs@52af6cff]" name="testBrowseCelebs" duration-ms="8795" started-at="2017-09-27T16:55:55Z" finished-at="2017-09-27T16:56:04Z">
+        <test-method status="PASS" signature="testSignUp()[pri:0, instance:TestFB.TestFBSignUp@52af6cff]" name="testSignUp" duration-ms="10145" started-at="2017-09-28T21:18:26Z" finished-at="2017-09-28T21:18:36Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testBrowseCelebs -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestFB.TestFBBrowseCelebs@52af6cff]" name="cleanUp" is-config="true" duration-ms="1752" started-at="2017-09-27T16:57:36Z" finished-at="2017-09-27T16:57:38Z">
+        </test-method> <!-- testSignUp -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestFB.TestFBSignUp@52af6cff]" name="cleanUp" is-config="true" duration-ms="1724" started-at="2017-09-28T21:20:05Z" finished-at="2017-09-28T21:20:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
+      </class> <!-- TestFB.TestFBSignUp -->
+      <class name="TestFB.TestFBBrowseCelebs">
+        <test-method status="PASS" signature="testBrowseCelebs()[pri:0, instance:TestFB.TestFBBrowseCelebs@2096442d]" name="testBrowseCelebs" duration-ms="9470" started-at="2017-09-28T21:19:55Z" finished-at="2017-09-28T21:20:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrowseCelebs -->
       </class> <!-- TestFB.TestFBBrowseCelebs -->
       <class name="TestFB.TestFBHomepage">
-        <test-method status="PASS" signature="testHome()[pri:0, instance:TestFB.TestFBHomepage@2096442d]" name="testHome" duration-ms="75446" started-at="2017-09-27T16:56:20Z" finished-at="2017-09-27T16:57:36Z">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:TestFB.TestFBHomepage@2c9f9fb0]" name="testHome" duration-ms="72647" started-at="2017-09-28T21:18:43Z" finished-at="2017-09-28T21:19:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHome -->

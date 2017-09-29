@@ -10,10 +10,10 @@
         <parameter name="operatingSystem" value="win"/>
 
         <classes>
-            <class name="TestFB.TestFBBrowseCelebs"/>
-            <class name="TestFB.TestFBSignup"/>
+            <class name="TestFB.TestFBSignUp"/>
             <class name="TestFB.TestFBLogin"/>
             <class name="TestFB.TestFBHomepage"/>
+            <class name="TestFB.TestFBBrowseCelebs"/>
         </classes>
     </test>
 </suite>

@@ -28,7 +28,7 @@ public class CommonAPI {
 
 public static WebDriver driver=null;
 private String saucelabs_username="dahliam324";
-private String browserstack_username="dahliam324";
+private String browserstack_username="dahliamarcano1";
 private String saucelabs_accesskey="1e838bcb-9b3a-49e0-bfde-b328cf54a607";
 private String browserstack_accesskey="WszJxBTsgpgmkw281YhX";
 

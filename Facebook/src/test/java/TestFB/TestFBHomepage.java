@@ -9,7 +9,6 @@ import org.testng.annotations.Test;
 public class TestFBHomepage extends CommonAPI {
     @Test
     public void testHome() throws InterruptedException {
-        driver.navigate().to("https://www.facebook.com/");
         FacebookHomepage fBHome = PageFactory.initElements(driver, FacebookHomepage.class);
         fBHome.Home();
     }

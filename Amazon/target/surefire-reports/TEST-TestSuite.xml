@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="49.04" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="50.769" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="2017.2.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -61,7 +61,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testHome" classname="Test.TestAmazonHomepage" time="22.374"/>
-  <testcase name="testLogin" classname="Test.TestAmazonLogin" time="4.997"/>
-  <testcase name="testSignup" classname="Test.TestAmazonSignup" time="10.954"/>
+  <testcase name="testHome" classname="Test.TestAmazonHomepage" time="23.211"/>
+  <testcase name="testLogin" classname="Test.TestAmazonLogin" time="4.943"/>
+  <testcase name="testSignup" classname="Test.TestAmazonSignup" time="11.171"/>
 </testsuite>

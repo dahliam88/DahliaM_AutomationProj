@@ -85,6 +85,7 @@ public class AMHome extends CommonAPI {
         search1.click();
         sleep(1000);
         search2.click();
+        sleep(1000);
         searchBox.sendKeys(keyword);
         sleep(2000);
         searchBtn.click();

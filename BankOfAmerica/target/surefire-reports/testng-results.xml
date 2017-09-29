@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="BankOfAmerica" duration-ms="44045" started-at="2017-09-27T21:00:47Z" finished-at="2017-09-27T21:01:31Z">
+  <suite name="BankOfAmerica" duration-ms="37829" started-at="2017-09-29T01:12:48Z" finished-at="2017-09-29T01:13:26Z">
     <groups>
     </groups>
-    <test name="Bank Of America features" duration-ms="44045" started-at="2017-09-27T21:00:47Z" finished-at="2017-09-27T21:01:31Z">
+    <test name="Bank Of America features" duration-ms="37829" started-at="2017-09-29T01:12:48Z" finished-at="2017-09-29T01:13:26Z">
       <class name="BOATesting.TestBOAHomeSearch">
-        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOAHomeSearch@52af6cff]" name="testBankHome" duration-ms="5244" started-at="2017-09-27T17:01:08Z" finished-at="2017-09-27T17:01:13Z">
+        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOAHomeSearch@531be3c5]" name="testBankHome" duration-ms="5251" started-at="2017-09-28T21:13:08Z" finished-at="2017-09-28T21:13:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBankHome -->
       </class> <!-- BOATesting.TestBOAHomeSearch -->
       <class name="BOATesting.TestBOAHome">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BOATesting.TestBOAHome@531be3c5]" name="setUp" is-config="true" duration-ms="6057" started-at="2017-09-27T17:00:47Z" finished-at="2017-09-27T17:00:53Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BOATesting.TestBOAHome@3551a94]" name="setUp" is-config="true" duration-ms="5936" started-at="2017-09-28T21:12:48Z" finished-at="2017-09-28T21:12:54Z">
           <params>
             <param index="0">
               <value>
@@ -54,17 +54,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOAHome@531be3c5]" name="testBankHome" duration-ms="14216" started-at="2017-09-27T17:00:53Z" finished-at="2017-09-27T17:01:08Z">
+        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOAHome@3551a94]" name="testBankHome" duration-ms="14164" started-at="2017-09-28T21:12:54Z" finished-at="2017-09-28T21:13:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBankHome -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BOATesting.TestBOAHome@531be3c5]" name="cleanUp" is-config="true" duration-ms="2592" started-at="2017-09-27T17:01:29Z" finished-at="2017-09-27T17:01:31Z">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BOATesting.TestBOAHome@3551a94]" name="cleanUp" is-config="true" duration-ms="1719" started-at="2017-09-28T21:13:24Z" finished-at="2017-09-28T21:13:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
       </class> <!-- BOATesting.TestBOAHome -->
       <class name="BOATesting.TestBOALocator">
-        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOALocator@735b478]" name="testBankHome" duration-ms="15893" started-at="2017-09-27T17:01:13Z" finished-at="2017-09-27T17:01:29Z">
+        <test-method status="PASS" signature="testBankHome()[pri:0, instance:BOATesting.TestBOALocator@52af6cff]" name="testBankHome" duration-ms="10713" started-at="2017-09-28T21:13:14Z" finished-at="2017-09-28T21:13:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBankHome -->

@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Twitter" duration-ms="51813" started-at="2017-09-27T20:59:54Z" finished-at="2017-09-27T21:00:46Z">
+  <suite name="Twitter" duration-ms="55291" started-at="2017-09-29T01:11:52Z" finished-at="2017-09-29T01:12:47Z">
     <groups>
     </groups>
-    <test name="Twitter Features" duration-ms="51813" started-at="2017-09-27T20:59:54Z" finished-at="2017-09-27T21:00:46Z">
+    <test name="Twitter Features" duration-ms="55291" started-at="2017-09-29T01:11:52Z" finished-at="2017-09-29T01:12:47Z">
       <class name="TestTwitter.TestTwittReg">
-        <test-method status="PASS" signature="testSignup()[pri:0, instance:TestTwitter.TestTwittReg@36f6e879]" name="testSignup" duration-ms="7188" started-at="2017-09-27T17:00:27Z" finished-at="2017-09-27T17:00:34Z">
+        <test-method status="PASS" signature="testSignup()[pri:0, instance:TestTwitter.TestTwittReg@52af6cff]" name="testSignup" duration-ms="6935" started-at="2017-09-28T21:12:23Z" finished-at="2017-09-28T21:12:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSignup -->
       </class> <!-- TestTwitter.TestTwittReg -->
       <class name="TestTwitter.TestTwittHome">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestTwitter.TestTwittHome@54a097cc]" name="setUp" is-config="true" duration-ms="7327" started-at="2017-09-27T16:59:54Z" finished-at="2017-09-27T17:00:02Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestTwitter.TestTwittHome@531be3c5]" name="setUp" is-config="true" duration-ms="6568" started-at="2017-09-28T21:11:52Z" finished-at="2017-09-28T21:11:58Z">
           <params>
             <param index="0">
               <value>
@@ -54,17 +54,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testHome()[pri:0, instance:TestTwitter.TestTwittHome@54a097cc]" name="testHome" duration-ms="24966" started-at="2017-09-27T17:00:02Z" finished-at="2017-09-27T17:00:27Z">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:TestTwitter.TestTwittHome@531be3c5]" name="testHome" duration-ms="24638" started-at="2017-09-28T21:11:58Z" finished-at="2017-09-28T21:12:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHome -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestTwitter.TestTwittHome@54a097cc]" name="cleanUp" is-config="true" duration-ms="1876" started-at="2017-09-27T17:00:44Z" finished-at="2017-09-27T17:00:46Z">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestTwitter.TestTwittHome@531be3c5]" name="cleanUp" is-config="true" duration-ms="6754" started-at="2017-09-28T21:12:40Z" finished-at="2017-09-28T21:12:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
       </class> <!-- TestTwitter.TestTwittHome -->
       <class name="TestTwitter.TestTwittLogin">
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestTwitter.TestTwittLogin@5a61f5df]" name="testLogin" duration-ms="10413" started-at="2017-09-27T17:00:34Z" finished-at="2017-09-27T17:00:44Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:TestTwitter.TestTwittLogin@735b478]" name="testLogin" duration-ms="10358" started-at="2017-09-28T21:12:30Z" finished-at="2017-09-28T21:12:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->

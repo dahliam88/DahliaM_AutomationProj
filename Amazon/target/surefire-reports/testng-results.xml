@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Amazon" duration-ms="48681" started-at="2017-09-27T20:57:39Z" finished-at="2017-09-27T20:58:28Z">
+  <suite name="Amazon" duration-ms="50410" started-at="2017-09-29T01:09:35Z" finished-at="2017-09-29T01:10:25Z">
     <groups>
     </groups>
-    <test name="Amazon features" duration-ms="48681" started-at="2017-09-27T20:57:39Z" finished-at="2017-09-27T20:58:28Z">
+    <test name="Amazon features" duration-ms="50410" started-at="2017-09-29T01:09:35Z" finished-at="2017-09-29T01:10:25Z">
       <class name="Test.TestAmazonSignup">
-        <test-method status="PASS" signature="testSignup()[pri:0, instance:Test.TestAmazonSignup@735b478]" name="testSignup" duration-ms="10954" started-at="2017-09-27T16:58:14Z" finished-at="2017-09-27T16:58:25Z">
+        <test-method status="PASS" signature="testSignup()[pri:0, instance:Test.TestAmazonSignup@5a61f5df]" name="testSignup" duration-ms="11171" started-at="2017-09-28T21:10:12Z" finished-at="2017-09-28T21:10:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSignup -->
       </class> <!-- Test.TestAmazonSignup -->
       <class name="Test.TestAmazonLogin">
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:Test.TestAmazonLogin@52af6cff]" name="testLogin" duration-ms="4997" started-at="2017-09-27T16:58:09Z" finished-at="2017-09-27T16:58:14Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:Test.TestAmazonLogin@36f6e879]" name="testLogin" duration-ms="4945" started-at="2017-09-28T21:10:07Z" finished-at="2017-09-28T21:10:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
       </class> <!-- Test.TestAmazonLogin -->
       <class name="Test.TestAmazonHomepage">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestAmazonHomepage@531be3c5]" name="setUp" is-config="true" duration-ms="7445" started-at="2017-09-27T16:57:39Z" finished-at="2017-09-27T16:57:46Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestAmazonHomepage@54a097cc]" name="setUp" is-config="true" duration-ms="9307" started-at="2017-09-28T21:09:35Z" finished-at="2017-09-28T21:09:44Z">
           <params>
             <param index="0">
               <value>
@@ -60,11 +60,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testHome()[pri:0, instance:Test.TestAmazonHomepage@531be3c5]" name="testHome" duration-ms="22387" started-at="2017-09-27T16:57:46Z" finished-at="2017-09-27T16:58:09Z">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:Test.TestAmazonHomepage@54a097cc]" name="testHome" duration-ms="23216" started-at="2017-09-28T21:09:44Z" finished-at="2017-09-28T21:10:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHome -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Test.TestAmazonHomepage@531be3c5]" name="cleanUp" is-config="true" duration-ms="2847" started-at="2017-09-27T16:58:25Z" finished-at="2017-09-27T16:58:28Z">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Test.TestAmazonHomepage@54a097cc]" name="cleanUp" is-config="true" duration-ms="1750" started-at="2017-09-28T21:10:23Z" finished-at="2017-09-28T21:10:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
