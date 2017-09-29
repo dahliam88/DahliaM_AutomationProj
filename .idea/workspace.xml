@@ -2,207 +2,347 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24c6b324-a218-4e3d-9530-3f21a733f638" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMSignUp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/Espn/AM New York features.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/Espn/AM New York features.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/Espn/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/AM New York features.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/Espn/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/classes/BankOAObjects/BankOASignUp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/test-classes/BOATesting/TestBOASignUp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/AMNewYork-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/AMNewYork/AM New York features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/AMNewYork/AM New York features.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/junitreports/TEST-Test.TestAMHome.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/AM New York features.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/AMNewYork/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/test-classes/AMNewYorkTestRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AMNewYork/target/test-classes/Test/TestAMHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonHomepage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonLogin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonSignup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/Amazon features.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/BankOfAmerica-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/classes/BankOAObjects/BankOAHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/classes/BankOAObjects/BankOAHomeSearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/classes/BankOAObjects/BankOALocator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOAHome.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOAHomeSearch.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOALocator.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/Bank Of America features.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/test-classes/BOATestRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/test-classes/BOATesting/TestBOAHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/test-classes/BOATesting/TestBOAHomeSearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/target/test-classes/BOATesting/TestBOALocator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/Ebay-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/classes/Homepage/EbayHomepage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/classes/Homepage/EbayLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/classes/Homepage/EbaySignup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbayHome.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbayLogin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbaySignup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/Ebay features.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/test-classes/Test/TestEbayHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/test-classes/Test/TestEbayLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/test-classes/Test/TestEbaySignup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ebay/target/test-classes/TestEbayRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/Espn-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/classes/EspnObjects/EspnHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/classes/EspnObjects/EspnReportABug.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/junitreports/TEST-Test.TestEspnHome.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/junitreports/TEST-Test.TestEspnReportABug.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/Espn features.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/test-classes/EspnTestRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/test-classes/Test/TestEspnHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Espn/target/test-classes/Test/TestEspnReportABug.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/Facebook-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/classes/fBObjects/FacebookBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/classes/fbObjects/FacebookBrowseCelebs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/classes/fbObjects/FacebookHomepage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/classes/fbObjects/FacebookLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/classes/fbObjects/FacebookSignupPage.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestBrowseCelebs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBBase.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGTerms.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/fbObjects/FacebookProfilePage.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignupPage.java" afterPath="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignUpPage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBSignup.java" afterPath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBSignUp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/AMNewYork-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/AMNewYork/target/AMNewYork-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMHome.class" afterPath="$PROJECT_DIR$/AMNewYork/target/classes/AMNewYorkObjects/AMHome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/BankOfAmerica-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/BankOfAmerica/target/BankOfAmerica-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/Ebay-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Ebay/target/Ebay-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/Espn-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Espn/target/Espn-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/classes/fbObjects/FacebookSignupPage.class" afterPath="$PROJECT_DIR$/Facebook/target/classes/fbObjects/FacebookSignupPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBHomepage.class" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBHomepage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBSignup.class" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBSignup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Command line suite/Command line test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Command line suite/Command line test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Command line suite/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBBrowseCelebs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBHomepage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBLogin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBSignup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/Command line test.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Command line suite/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/Facebook Features.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBBrowseCelebs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBHomepage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFB/TestFBSignup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFacebookRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/Instagram-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/classes/iGObjects/InstagramAboutUs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/classes/iGObjects/InstagramHomepage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/classes/iGObjects/InstagramLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/classes/iGObjects/InstagramSignup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGAboutUs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGHomepage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGLogin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGSignup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/Instagram Features.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/test-classes/TestIG/TestIGAboutUs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/test-classes/TestIG/TestIGHomepage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/test-classes/TestIG/TestIGLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/test-classes/TestIG/TestIGSignup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Instagram/target/test-classes/TestInstagramRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/Twitter-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/classes/TwitterObjects/TwitterHomepage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/classes/TwitterObjects/TwitterLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/classes/TwitterObjects/TwitterRegister.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/Twitter Features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/Twitter Features.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittHome.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittLogin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittReg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/Twitter Features.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/test-classes/TestTwitter/TestTwittHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/test-classes/TestTwitter/TestTwittLogin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/test-classes/TestTwitter/TestTwittReg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Twitter/target/test-classes/TwitterTestRunner.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/classes/Homepage/AmazonHomepage.class" afterPath="$PROJECT_DIR$/Amazon/target/classes/Homepage/AmazonHomepage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" afterPath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/Instagram-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Instagram/target/Instagram-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/Twitter-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Twitter/target/Twitter-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/src/main/java/AMNewYorkObjects/AMHome.java" afterPath="$PROJECT_DIR$/AMNewYork/src/main/java/AMNewYorkObjects/AMHome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" afterPath="$PROJECT_DIR$/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/AMNewYork/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/junitreports/TEST-Test.TestAMHome.xml" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/junitreports/TEST-Test.TestAMHome.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/AMNewYork/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AMNewYork/target/test-classes/AMNewYorkTestRunner.xml" afterPath="$PROJECT_DIR$/AMNewYork/target/test-classes/AMNewYorkTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/TestAmazonRunner.xml" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/TestAmazonRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonHomepage.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonHomepage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonLogin.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonLogin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonSignup.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-Test.TestAmazonSignup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/TestAmazonRunner.xml" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/TestAmazonRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/BankOfAmerica/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.html" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/BankOfAmerica/Bank Of America features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOAHome.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOAHome.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOAHomeSearch.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOAHomeSearch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOALocator.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/junitreports/TEST-BOATesting.TestBOALocator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods-alphabetical.html" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods.html" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/old/BankOfAmerica/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Ebay/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.html" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/Ebay/Ebay features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbayHome.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbayHome.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbayLogin.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbayLogin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbaySignup.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/junitreports/TEST-Test.TestEbaySignup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods.html" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/old/Ebay/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Ebay/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Espn/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/Espn/Espn features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/junitreports/TEST-Test.TestEspnHome.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/junitreports/TEST-Test.TestEspnHome.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/junitreports/TEST-Test.TestEspnReportABug.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/junitreports/TEST-Test.TestEspnReportABug.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods.html" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/old/Espn/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Espn/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBHomepage.java" afterPath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBHomepage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBLogin.java" afterPath="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBLogin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/src/test/resources/TestFacebookRunner.xml" afterPath="$PROJECT_DIR$/Facebook/src/test/resources/TestFacebookRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/Facebook Features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/testng-failed.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/Facebook/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBBrowseCelebs.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBBrowseCelebs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBHomepage.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBHomepage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBLogin.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBLogin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBSignup.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/junitreports/TEST-TestFB.TestFBSignup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/classes.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/testng.xml.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/toc.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/Facebook/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Facebook/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/test-classes/TestFacebookRunner.xml" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/TestFacebookRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/main/java/Homepage/AmazonHomepage.java" afterPath="$PROJECT_DIR$/Amazon/src/main/java/Homepage/AmazonHomepage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Instagram/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.html" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/Facebook/Instagram Features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGAboutUs.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGAboutUs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGHomepage.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGHomepage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGLogin.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGLogin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGSignup.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/junitreports/TEST-TestIG.TestIGSignup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods.html" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/old/Facebook/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Instagram/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Twitter/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/Twitter Features.html" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/Twitter Features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/Twitter Features.xml" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/Twitter/Twitter Features.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittHome.xml" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittHome.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittLogin.xml" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittLogin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittReg.xml" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/junitreports/TEST-TestTwitter.TestTwittReg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods.html" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/old/Twitter/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Twitter/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -230,7 +370,83 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
+    <leaf>
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="62" column="92" lean-forward="false" selection-start-line="62" selection-start-column="92" selection-end-line="62" selection-end-column="92" />
+              <folding>
+                <element signature="e#3086#3087#0" expanded="true" />
+                <element signature="e#3116#3117#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AmazonHomepage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/Homepage/AmazonHomepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="897">
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FacebookSignUpPage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignUpPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAmazonHomepage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/Test/TestAmazonHomepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtentManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtentTestManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentTestManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -256,7 +472,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Instagram/src/main/java/iGObjects/InstagramAboutUs.java" />
         <option value="$PROJECT_DIR$/Instagram/src/test/java/TestIG/TestIGAboutUs.java" />
         <option value="$PROJECT_DIR$/BankOfAmerica/pom.xml" />
         <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/BOATesting/TestBOAHome.java" />
@@ -303,10 +518,11 @@
         <option value="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBHomepage.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBLogin.java" />
         <option value="$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBSignUp.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignUpPage.java" />
         <option value="$PROJECT_DIR$/Facebook/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/Homepage/AmazonHomepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignUpPage.java" />
       </list>
     </option>
   </component>
@@ -322,11 +538,20 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Facebook" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Facebook" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PntAutomation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="PntAutomation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -334,10 +559,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="180" />
-    <option name="y" value="3" />
+    <option name="x" value="148" />
     <option name="width" value="3537" />
-    <option name="height" value="1976" />
+    <option name="height" value="2046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -357,6 +581,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -364,14 +592,41 @@
               <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PntAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PntAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="AmazonExtent-Report" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -409,7 +664,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Facebook/src/test/resources/TestFacebookRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Amazon/src/test/resources/TestAmazonRunner.xml">
     <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="AMNewYork" />
@@ -437,12 +692,12 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/BankOfAmerica/src/test/resources/BOATestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/Amazon/src/test/resources/TestAmazonRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="BankOfAmerica" />
+      <module name="Amazon" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/BankOfAmerica/src/test/resources/BOATestRunner.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/TestAmazonRunner.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -632,19 +887,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/BankOfAmerica/src/test/resources/BOATestRunner.xml" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Espn/src/test/resources/EspnTestRunner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Facebook/src/test/resources/TestFacebookRunner.xml" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.TestFBSignUp.testSignup" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Espn/src/test/resources/EspnTestRunner.xml" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Facebook/src/test/resources/TestFacebookRunner.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.TestFBSignUp.testSignup" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Amazon/src/test/resources/TestAmazonRunner.xml" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Facebook/src/test/resources/TestFacebookRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TestFBSignUp.testSignup" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Espn/src/test/resources/EspnTestRunner.xml" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/BankOfAmerica/src/test/resources/BOATestRunner.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Amazon/src/test/resources/TestAmazonRunner.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Espn/src/test/resources/EspnTestRunner.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/Facebook/src/test/resources/TestFacebookRunner.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.TestFBSignUp.testSignup" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -662,12 +917,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Dahlia_IdeaProjects_PntAutomation_AMNewYork_src_test_resources_AMNewYorkTestRunner_xml - 2017.09.28 at 09h 43m 48s.xml">
-      <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Dahlia_IdeaProjects_PntAutomation_AMNewYork_src_test_resources_AMNewYorkTestRunner_xml - 2017.09.28 at 09h 45m 37s.xml">
-      <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_Dahlia_IdeaProjects_PntAutomation_AMNewYork_src_test_resources_AMNewYorkTestRunner_xml - 2017.09.28 at 09h 48m 12s.xml">
       <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -686,6 +935,12 @@
     <history-entry file="C__Users_Dahlia_IdeaProjects_PntAutomation_AMNewYork_src_test_resources_AMNewYorkTestRunner_xml - 2017.09.28 at 10h 15m 30s.xml">
       <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/AMNewYork/src/test/resources/AMNewYorkTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_Dahlia_IdeaProjects_PntAutomation_Amazon_src_test_resources_TestAmazonRunner_xml - 2017.09.29 at 14h 13m 26s.xml">
+      <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/Amazon/src/test/resources/TestAmazonRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Dahlia_IdeaProjects_PntAutomation_Espn_src_test_resources_EspnTestRunner_xml - 2017.09.29 at 13h 23m 30s.xml">
+      <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/Espn/src/test/resources/EspnTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="C__Users_Dahlia_IdeaProjects_PntAutomation_Facebook_src_test_resources_TestFacebookRunner_xml - 2017.09.28 at 11h 11m 15s.xml">
       <configuration name="C:/Users/Dahlia/IdeaProjects/PntAutomation/Facebook/src/test/resources/TestFacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -694,22 +949,23 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="180" y="3" width="3537" height="1976" extended-state="0" />
+    <frame x="148" y="0" width="3537" height="2046" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327294" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117042534" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3185272" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26895002" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21838424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21838424" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -720,7 +976,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327294" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -736,13 +991,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/BOATesting/TestBOAHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Espn/src/test/java/Test/TestEspnLogin.java" />
     <entry file="file://$PROJECT_DIR$/Espn/src/main/java/EspnObjects/EspnLogin.java" />
     <entry file="file://$PROJECT_DIR$/Espn/src/main/java/EspnObjects/EspnReportABug.java">
@@ -800,14 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="50" column="11" lean-forward="false" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -891,34 +1131,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AMNewYork/src/test/java/Test/TestAMHome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -944,7 +1156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1521">
           <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,21 +1173,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/target/test-classes/TestFacebookRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/target/test-classes/TestFacebookRunner.xml" />
     <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="889">
           <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-          <folding>
-            <element signature="e#1110#1111#0" expanded="false" />
-            <element signature="e#1144#1145#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -984,17 +1185,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,9 +1192,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1012,18 +1199,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBBrowseCelebs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="42" column="46" lean-forward="false" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        <state relative-caret-position="1170">
+          <caret line="62" column="92" lean-forward="false" selection-start-line="62" selection-start-column="92" selection-end-line="62" selection-end-column="92" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5761#5762#0" expanded="true" />
-            <element signature="e#5845#5846#0" expanded="true" />
+            <element signature="e#3086#3087#0" expanded="true" />
+            <element signature="e#3116#3117#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1038,42 +1301,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/Homepage/AmazonHomepage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignUpPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="897">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBHomepage.java">
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/fBObjects/FacebookSignUpPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/TestFB/TestFBBrowseCelebs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="736">
+          <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
           <folding />
         </state>
       </provider>
